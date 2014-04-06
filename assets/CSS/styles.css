@@ -1,6 +1,17 @@
 
 body { padding-top: 70px; }
 
+
+a.list:link {color: black;}      /* unvisited link */
+a.list:visited {color: black;}   /* visited link */
+a.list:hover {color: black;}     /* mouse over link */
+a.list:active {color: black;}    /* selected link */
+
+a.list{
+    padding-left: 7px;
+    padding-bottom: 20px;
+}
+
 header.main{
     width: 100%;
     min-width: 1150px;
