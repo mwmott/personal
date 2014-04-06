@@ -1,6 +1,6 @@
 name: Michael Mott
 markdown: redcarpet
 pygments: false
-baseurl: /
+baseurl: /personal
 permalink: pretty
 url: "http://localhost:4000"
