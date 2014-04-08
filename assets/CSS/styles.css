@@ -1,5 +1,5 @@
-
-body { padding-top: 70px; }
+body 
+{ padding-top: 70px; }
 
 
 a.list:link {color: black;}      /* unvisited link */
@@ -7,8 +7,21 @@ a.list:visited {color: black;}   /* visited link */
 a.list:hover {color: black;}     /* mouse over link */
 a.list:active {color: black;}    /* selected link */
 
+.foot{
+    color:#868686;
+    padding-top: 200px;
+    font-size: 14px;
+}
+
+#maincol{
+-webkit-column-count:3; /* Chrome, Safari, Opera */
+-moz-column-count:3; /* Firefox */
+column-count:3;
+height:20px;
+}
+
 .list{
-    padding-bottom: 10px;
+    padding-bottom: 3px;
     padding-left: 4px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
@@ -66,7 +79,7 @@ header.main{
 body {
     margin: 0;
     font-size: 16px;
-    font-family: "Myriad Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
     line-height: 1.35em;
     background-color: #E7E7E7;
