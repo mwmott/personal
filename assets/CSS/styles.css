@@ -9,6 +9,7 @@ a.list:active {color: black;}    /* selected link */
 
 .list{
     padding-bottom: 7px;
+    padding-left: 4px;
 }
 
 header.main{
