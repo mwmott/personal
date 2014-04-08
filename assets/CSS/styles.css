@@ -7,9 +7,8 @@ a.list:visited {color: black;}   /* visited link */
 a.list:hover {color: black;}     /* mouse over link */
 a.list:active {color: black;}    /* selected link */
 
-a.list{
-    padding-left: 7px;
-    padding-bottom: 20px;
+.list{
+    padding-bottom: 7px;
 }
 
 header.main{
