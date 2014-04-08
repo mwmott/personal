@@ -10,6 +10,8 @@ a.list:active {color: black;}    /* selected link */
 .list{
     padding-bottom: 10px;
     padding-left: 4px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
 }
 
 header.main{
