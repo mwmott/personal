@@ -7,9 +7,13 @@ a.list:visited {color: black;}   /* visited link */
 a.list:hover {color: black;}     /* mouse over link */
 a.list:active {color: black;}    /* selected link */
 
+a.list2:link {color: black;}      /* unvisited link */
+a.list2:visited {color: black;}   /* visited link */
+a.list2:hover {color: black;}     /* mouse over link */
+a.list2:active {color: black;}    /* selected link */
+
 .foot{
     color:#868686;
-    padding-top: 200px;
     font-size: 14px;
 }
 
@@ -20,6 +24,13 @@ column-count:3;
 height:20px;
 }
 
+.list2{
+    padding-bottom: 3px;
+    padding-left: 4px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+    
 .list{
     padding-bottom: 3px;
     padding-left: 4px;
