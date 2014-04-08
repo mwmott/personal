@@ -8,7 +8,7 @@ a.list:hover {color: black;}     /* mouse over link */
 a.list:active {color: black;}    /* selected link */
 
 .list{
-    padding-bottom: 7px;
+    padding-bottom: 10px;
     padding-left: 4px;
 }
 
