@@ -36,13 +36,29 @@ title: Home
 		          <a class="list" href="/stories/marathon">South Bronx honors local hip-hop trailblazers</a>
 		        </li>   
 		        <li class="list" style="border-left: solid 4px #f5503c">
-		          <a class="list" href="/stories/don">Remembering Don Rothman</a>
+		          <a class="list" href="/posts/2012-12-06-Remembering-Don-Rothman.markdown">Remembering Don Rothman</a>
 		        </li>
 		        <li class="list" style="border-left: solid 4px #549BA6">
 		          <a class="list" href="/stories/marathon">Marathon Men and Women</a>
 		        </li>   
 		    </ul>
 		</div>
+<!-- Next step maybe? Using liquid for this bit. Maybe not since not wanting all.
+					<ul class="unstyled" style="padding-left: 10px">
+					{% for post in site.posts %}
+						<li>
+							<span>
+								{{ post.date | date_to_string }}
+							</span>
+							<a href="{{ post.url }}">
+								<img src="{{ post.image }}" />
+								{{ post.title }}
+							</a>
+						</li>
+						{% endfor %}
+					</ul>
+-->
+
 		<div class="span5">
 			<ul class="unstyled" style="padding-left: 10px">
 		        <li class="list" style="border-left: solid 4px #549BA6">

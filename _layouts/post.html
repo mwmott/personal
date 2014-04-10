@@ -1,9 +1,16 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-{{ content }}
-</div>
+<section class="content">
+	<div class="container main-content-container">
+		<div class="row">
+			<div class="span12" style="padding-top: 25px">
+				<h2><a href="{{ site.prefix }}{{ post.url }}">{{ page.title }}</a></h2>
+				<span><p class="meta">{{ page.date | date_to_string }}</p></span>
+				<span><p class="meta">{{ author.name }}</p></span>
+				{{ content }}
+			</div>
+		</div>
+	</div>
+</section>
