@@ -45,15 +45,22 @@ title: Home
 			</div>
 		</div>
 	</div>
-
-
-{% for post in site.categories.articles %}
-	<li class="bars">
-		<a href="{{ post.url }}">{{ post.title }}</a>
-	</li>
-{% endfor %}
-
-
+	<div class="row">	
+		<div class="span12">
+			<div class="row">	
+				<div class="span5">
+					<ul>
+					{% for post in site.categories.articles %}
+						<li class="bars">
+							<a href="{{ post.url }}">{{ post.title }}</a>
+						</li>
+					{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
 
 
 
