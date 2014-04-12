@@ -3,4 +3,13 @@
     	<p class="foot">&copy; Michael Mott 2014 | All Rights Reserved</p>
     </footer>
 </body>
+	<script>
+		$(document).ready(function(){
+		    var colors = ["#CCCCCC","#333333","#990099"];                
+		    $('.bars').each(function() {
+		        var rand = Math.floor(Math.random()*colors.length);
+		        $(this).css("border-left-color", colors[rand]);
+		    });
+		});
+	</script>
 </html>

@@ -2,7 +2,10 @@
 layout: post
 title:  Remembering Don Rothman
 date:   2012-12-06 00:10:20
-categories: stories CHP
+categories:
+— articles
+— featured
+
 ---
 
 ![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)

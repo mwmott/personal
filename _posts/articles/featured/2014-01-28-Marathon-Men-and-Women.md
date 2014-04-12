@@ -2,7 +2,9 @@
 layout: post
 title:  Marathon Men and Women
 date:   2014-01-28 00:10:20
-categories: stories Columbia
+categories:
+— articles
+— featured
 ---
 
 ![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
