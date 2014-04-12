@@ -47,13 +47,11 @@ title: Home
 	</div>
 
 
-{% assign blog_categories = site.categories['articles'] | filter_categories_by_primary_category %}
-{% for category in articles_categories %}
-						<li class="bars">
-							<a href="{{ post.url }}">{{ post.title }}</a>
-						</li>
+{% for post in site.categories.articles %}
+	<li class="bars">
+		<a href="{{ post.url }}">{{ post.title }}</a>
+	</li>
 {% endfor %}
-
 
 
 
