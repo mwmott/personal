@@ -1,10 +1,9 @@
 name: Michael Mott
-description: This is the Personal Website of Michael Mott.
+description: This is the Personal Website of Michael Warren Mott.
 author: Michael Mott
 author_email: michaelwarrenmott@gmail.com
-category_dir: /
 baseurl: /
-url: http://localhost:4000/
+url: "http://localhost:4000/"
 
 markdown: rdiscount
 permalink: /:categories/:title
@@ -16,8 +15,5 @@ safe:        false
 auto:        true
 server:      false
 source:      .
-destination: ./_site
 plugins:     ./_plugins
 future:      true
-markdown:    maruku
-permalink:   date
