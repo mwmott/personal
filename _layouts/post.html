@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<section class="content">
+	<div class="container main-content-container">
+		<div class="row">
+			<div class="span12" style="padding-top: 25px">
+				{% if page.image.feature %}
+				<div align="middle" style="background-image: url('{{ site.url }}/assets/img/{{ page.image.feature }}')">
+
+					
+				    <div class="image__container">
+				        <div class="entry-header-heading">
+				            <h1>{{ page.title }}</h1>
+				                <p class="meta">
+				                    {% if page.author %}
+				                        <span class="author">by {{ page.author }} &middot;</span>
+				                    {% endif %}
+				                    <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date: "%-d %B, %Y" }}</time>
+				                </p>
+				        </div>
+				    </div>
+				{% if page.image.credit %}
+				<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- image-credit -->
+				{% endif %}
+				    </div><!-- entry-image -->
+				{% else %}
+				<div class="text__container">
+				    <h1>{{ page.title }}</h1>
+				    <p class="meta">
+				        {% if page.author %}
+				            <span class="author">by {{ page.author }} &middot;</span>
+				        {% endif %}
+				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date: "%-d %B, %Y" }}</time>
+				    </p>
+				</div>
+				{% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<h2><a href="{{ site.prefix }}{{ post.url }}">{{ page.title }}</a></h2>
+				<span><p class="meta">{{ page.date | date_to_string }}</p></span>
+				<span><p class="meta">By {{ author.name }}</p></span>
+				{{ content }}
+			</div>
+		</div>
+	</div>
+</section>
