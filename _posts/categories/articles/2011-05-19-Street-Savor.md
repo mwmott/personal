@@ -2,9 +2,7 @@
 layout: post
 title:  Remembering Don Rothman
 date:   2011-05-19 00:10:20
-categories: 
-— articles
-— featured
+categories: articles featured
 ---
 
 ![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
