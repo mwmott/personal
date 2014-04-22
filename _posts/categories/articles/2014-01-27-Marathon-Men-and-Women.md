@@ -28,9 +28,9 @@ In an interview in December of 2013, Schachner recalled the settlement negotiati
 
 * * *
 
-<div style="float:right">
-![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
-</div>
+
+<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="McKeon" style="float:right" width="400">
+
 
 Sitting at the head of a wooden conference table in his Bronx Courthouse chambers, Chief Administrative Judge Douglas McKeon, 65, remembered the beginning of the case. Clerks buzzed around red leather furniture for his signature, and law books adorned the mahogany shelves. He wore blue suspenders, a gold collar pin and two cellphones strapped to his waist.
 
