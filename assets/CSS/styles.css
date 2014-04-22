@@ -4,8 +4,7 @@
     margin:50px auto; 
 }
 .caption{
-    margin:0px 20px;
-    display:inline-block;
+    display:block;
     text-decoration:none;
     color:black;
  }
