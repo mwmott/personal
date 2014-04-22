@@ -5,7 +5,7 @@ date:   2014-01-28 00:10:20
 categories: articles featured
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
+![Don Rothman photos]({{ base.url }}/assets/img/post/don.png)
 
 original - http://theuptownchronicle.com/?page_id=5763
 
