@@ -1,8 +1,8 @@
 #columns{
--webkit-column-count:3; /* Chrome, Safari, Opera */
--moz-column-count:3; /* Firefox */
-column-count:3;
-height:100px;
+-webkit-column-count:2; /* Chrome, Safari, Opera */
+-moz-column-count:2; /* Firefox */
+column-count:2;
+height:150px;
 }
 
 
