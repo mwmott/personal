@@ -14,7 +14,7 @@ I wanted to be able to visualize the city through the information data provided.
 
 We used an NYC Dep. of Edu. dataset, which was a messy .xls until Mark Hansen helped us clean it up to look like the above. We then added in school names and addresses to the pass rates, and created the following maps. Matt Collette gets the bulk of the credit for going through this work initially and then walking through with our class afterwards. But here are those maps!
 
-![NYC Scores]({{ base.url }}/assets/img/post/core2.jpeg)
+![NYC Scores]({{ base.url }}/assets/img/post/core2.jpg)
 
 Here's the big look at the city as a whole. l34p shows the score range (in passing percentage), and the size of the dot indicates how many of the tests were taken. Notice in the outer boroughs how the dots tend to be larger and warmer, indicating future leads for stories in New York education.
 
