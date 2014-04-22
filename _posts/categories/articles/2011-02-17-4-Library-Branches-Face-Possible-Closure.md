@@ -2,7 +2,7 @@
 layout: post
 title:  4 Library Branches Face Possible Closure
 date:   2011-02-17 00:10:20
-categories: articles featured
+categories: articles
 author: Michael Mott
 publication: <a href="http://www.cityonahillpress.com/2011/02/17/4-library-branches-face-possible-closure/">City on a Hill Press</a>
 subtitle: City council postpones vote after public hearing
