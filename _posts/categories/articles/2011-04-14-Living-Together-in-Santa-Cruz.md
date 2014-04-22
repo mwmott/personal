@@ -33,7 +33,7 @@ Since then, cooperatives have become a popular option for college students. Hous
 
 <div class="images" style="float:right">
 		<img src="{{ base.url }}/assets/img/post/coop4.jpg" alt="Chavez residents" width="300">
-        <div class="caption">Chavez inhabitants</div>
+        <span class="caption">Chavez inhabitants</span>
 </div>​
 
 Currently, UC Berkeley has one of the largest network of student co-ops, with 17 houses and 1,300 students in the Berkeley Student Cooperative. Their network is solely focused on students, while most in Santa Cruz are open to anyone, including non-students.
