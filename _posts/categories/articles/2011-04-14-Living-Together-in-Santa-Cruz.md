@@ -48,7 +48,7 @@ NASCO, founded in 1968, is an organization that helps educate co-ops across the 
 
 <div>
 <img src="{{ base.url }}/assets/img/post/coop6.jpg" alt="Zami residents" style="float:right;padding: 5px">
-<p><em style="float:right">Zami house</em></p>
+<p><em>Zami house</em></p>
 </div>
 
 
@@ -60,7 +60,7 @@ Daniel Miller, NASCO’s director of development and property services, said tha
 
 <div>
 <img src="{{ base.url }}/assets/img/post/coop3.jpg" alt="Food Not Lawns residents" style="float:right;padding: 5px">
-<p><em style="float:right">Food Not Lawns</em></p>
+<p><em>Food Not Lawns</em></p>
 </div>
 
 Other cooperatives in Santa Cruz either own their house, or have worked out a situation with their landlord to allow a cooperative to exist. Food Not Lawns is one such co-op.
