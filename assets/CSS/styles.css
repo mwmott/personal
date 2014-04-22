@@ -12,7 +12,7 @@ height:120px;
             border-left-style: solid; 
             border-left-width: 4px;
             padding-left: 10px;
-            margin: 3px 0px;
+            margin: 9px 0px;
         }
         
         ul{
@@ -43,7 +43,7 @@ height:20px;
 
 .list2{
     padding-bottom: 3px;
-    padding-left: 4px;
+    padding-left: 2px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
 }
