@@ -5,14 +5,12 @@ date:   2014-01-28 00:10:20
 categories: articles featured
 ---
 
-![Don Rothman photos]({{ base.url }}/assets/img/post/don.png)
+![Marathon cover]({{ base.url }}/assets/img/post/marathon1.png)
 
-original - http://theuptownchronicle.com/?page_id=5763
-
-_This piece is one in a series about the Pelham Bay Landfill Case, a 22-year case that settled in July of 2013. At Columbia’s Journalism School, my classmates and I covered the case, which you can find here, from a variety of perspectives — I took the judges._
+__This piece is one in a series about the Pelham Bay Landfill Case, a 22-year case that settled in July of 2013. At Columbia’s Journalism School, my classmates and I covered the case, which you can find here, from a variety of perspectives — I took the judges. All photos by Michael Mott.__
 
 By Michael Mott
-Published on The Uptown Chronicle on January 28th, 2014.
+Published on [The Uptown Chronicle](http://theuptownchronicle.com/?page_id=5763) on January 28th, 2014.
 
 It wasn’t easy presiding over the Pelham Bay case
 
