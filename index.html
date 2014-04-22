@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 <section class="content">
 	<div class="container main-content-container">
 		<div class="row">
@@ -15,14 +14,14 @@ title: Home
 			</div>
 		</div>
 	<hr / width="60%" align:"middle">
-<!--Inspiration and hat tip to @destroytoday for his li design. See his at http://www.destroytoday.com/-->
+	<!--Inspiration and hat tip to @destroytoday for his li design. See his at http://www.destroytoday.com/-->
 	<div class="row">	
 		<div class="span12">
 		<h4>Featured Articles</h4> 
 		</div>
 		<div class="span12" id="columns">
 			<ul class= "unstyled">
-			{% for post in site.categories.featured %}
+			{% for post in site.categories.articles.featured %}
 				<li class="bars">
 					<a class="list" href="{{ post.url }}">{{ post.title }}</a>
 				</li>
