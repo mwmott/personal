@@ -35,12 +35,14 @@ Here's the big look at the city as a whole. l34p shows the score range (in passi
   </ul>  
 </div>
 
+
+
+<!--
 <div class="slider_option">
   <input type="checkbox" id="checkbox">
   <label for="checkbox">Autoplay Slider</label>
 </div> 
-
-
+-->
 
 
 <!--
