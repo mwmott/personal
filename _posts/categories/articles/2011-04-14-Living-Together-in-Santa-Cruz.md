@@ -11,8 +11,9 @@ publication: <a src="http://www.cityonahillpress.com/2011/04/14/living-together-
 <hr width="90%" align="middle" />
 
 ![Coop cover]({{ base.url }}/assets/img/post/coop7.jpg)
-_Illustration by Bela Massex, photo by Prescott Watson._
+_Illustration by Bela Massex, photos by Prescott Watson._
 
+<img src="{{ base.url }}/assets/img/post/coop1.png" alt="Coop right" style="float:right" width="400">
 
 The wall is plastered with bears. One is eating a human foot, while another holds a fish up like a trophy.
 
