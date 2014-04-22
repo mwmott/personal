@@ -2,15 +2,14 @@
 layout: post
 title:  A Ticking Time Bomb
 date:   2011-11-10 00:10:20
-categories: stories CHP
+categories: articles featured
+author: Michael Mott
+publication: <a href="http://www.cityonahillpress.com/2011/11/10/a-ticking-time-bomb/">City on a Hill Press</a>
+subtitle: With the effects of a long recession comes anxiety about future job prospects for students
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
-
-_With the effects of a long recession comes anxiety about future job prospects for students. Illustrations by Jamie Morton._
-
-By Michael Mott
-_Published in_ City on a Hill Press _on January 20th, 2012.
+<img src="{{ base.url }}/assets/img/post/loan2.png" alt="Coop right" style="float:right;padding: 5px" width="400">
+_Illustrations by Jamie Morton._
 
 It was a conversation with his father that brought the recession home for Scott Leiserson.
 
@@ -21,6 +20,8 @@ The financial crisis of 2007-08 and the subsequent recession caused Leiserson to
 “It’s scary,” he said. “When all this happened my dad said, ‘We just can’t pay for your college right now, you’re taking all the loans.’ I’ve been getting these statements each quarter … and this number is a lot.”
 
 At a projected $1 trillion nationwide, student loan debt is not going away any time soon. For many the burden is staggering: Student debt is increasing at an estimated rate of $2,853.88 per second, according to The Project on Student Debt, a non-profit group that is part of the Institute for College Access & Success. After adjusting for inflation, the College Board reports that students are borrowing twice what they did a decade ago.
+
+<img src="{{ base.url }}/assets/img/post/loan1.jpg" alt="Coop right" style="float:right;padding: 5px" width="400">
 
 In late October, President Obama introduced changes in student loan legislation, and recently there has been a surge of stories calling the loans situation a “bubble,” akin to the financial crisis of 2007-08. While pundits and politicians alike are taking notice and speaking out about the loan situation, many students remain concerned about whether there are any solutions in sight.
 
@@ -33,6 +34,8 @@ He said since his family was neither impoverished nor incredibly wealthy, he was
 “Combined, my parents make about $120,000, so we couldn’t get any financial aid,” he said. “But it wasn’t enough to pay for college either, so I had to take out loans and try to get scholarships and grants.
 
 After my first year I lost my grandparents, and I didn’t have the GPA anymore to get scholarships and grants, so I had to start taking out loans.”
+
+<img src="{{ base.url }}/assets/img/post/loan3.png" alt="Coop right" style="float:right;padding: 5px" width="400">
 
 Graduates today face the highest unemployment rate in recent history. In 2009, recent graduate unemployment rate was at 8.7 percent, 1.2 percent beneath the national average. In 2010, the recent graduate rate grew to 9.1 percent, while the national average fell to 9.4 percent. Defaults are up as well: The number of students defaulting on their loans is growing fast, with a 2010 default rate at 8.8 percent, in comparison with 7 percent in 2009.
 
