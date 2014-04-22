@@ -1,22 +1,16 @@
 ---
 layout: post
-title:  Remembering Don Rothman
+title:  4 Library Branches Face Possible Closure
 date:   2011-02-17 00:10:20
 categories: articles featured
-headline: 
-subhead:
-byline:
-datepublished:
-publicationname:
+author: Michael Mott
+publication: <a href="http://www.cityonahillpress.com/2011/02/17/4-library-branches-face-possible-closure/">City on a Hill Press</a>
+subtitle: City council postpones vote after public hearing
 
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
-
-By Michael Mott
-_Published in_ City on a Hill Press _February 17th, 2011_
-
-_City council postpones vote after public hearing. Photo: Santa Cruz resident Ron Pomerantz stands to speak against the library closures. Citizens unhappy with the decision packed the room during the comment session Monday night. Photo by Prescott Watson._
+![Library]({{ site.url }}/assets/img/post/lib.jpg)
+_SANTA CRUZ RESIDENT Ron Pomerantz stands to speak against the library closures. Citizens unhappy with the decision packed the room during the comment session Monday night. Photo by Prescott Watson_
 
 Despite community opposition, four libraries in the Santa Cruz area are at risk of being closed.
 
