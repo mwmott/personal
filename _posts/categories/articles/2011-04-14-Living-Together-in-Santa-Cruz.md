@@ -61,11 +61,12 @@ Daniel Miller, NASCO’s director of development and property services, said tha
 <img src="{{ base.url }}/assets/img/post/coop3.jpg" alt="Food Not Lawns residents"/ width="300">
 <div class="caption">Food Not Lawns</div>
 </div>
-<img src="{{ base.url }}/assets/img/post/coop2.jpg" alt="Food Not Lawns residents" width="300" style="float:right;padding: 5px">
 
 Other cooperatives in Santa Cruz either own their house, or have worked out a situation with their landlord to allow a cooperative to exist. Food Not Lawns is one such co-op.
 
 Ducks quack and chickens cluck behind recent UCSC alumnus Harris, who sits on a wooden bench in the garden behind Food Not Lawns. Holding a cup of tea, Harris said a love of sustainability and farming unites them.
+
+<img src="{{ base.url }}/assets/img/post/coop2.jpg" alt="Food Not Lawns residents" width="300" style="float:right;padding: 5px">
 
 “We are here to learn how to garden and to learn how to live sustainably,” he said. “We’re fortunate, we’re blessed enough to have this space where we can do that, [in which] we can work in and play.”
 
