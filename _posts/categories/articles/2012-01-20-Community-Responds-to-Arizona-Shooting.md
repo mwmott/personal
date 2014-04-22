@@ -8,7 +8,7 @@ publication: <a href="http://www.cityonahillpress.com/2011/01/20/community-respo
 
 ---
 
-![G. Z. Memorial]({{ site.url }}/assets/img/post/shoot.jpg)
+![G. Z. Memorial]({{ base.url }}/assets/img/post/shoot.jpg)
 
 #####Rep. Sam Farr (D-Santa Cruz) and sociology professor Paul Lubeck sit in remembrance of UCSC alumnus Gabe Zimmerman, who was gunned down Jan. 8 in Tucson, Ariz. Photo by Isaac Miller.#####
 
