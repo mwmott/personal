@@ -8,7 +8,7 @@ publication: <a href="http://www.cityonahillpress.com/2011/11/10/a-ticking-time-
 subtitle: With the effects of a long recession comes anxiety about future job prospects for students
 ---
 
-<img src="{{ base.url }}/assets/img/post/loan2.png" alt="Coop right" style="float:right;padding: 5px" width="400">
+<img src="{{ base.url }}/assets/img/post/loan2.jpg" alt="Coop right" style="float:right;padding: 5px" width="300">
 _Illustrations by Jamie Morton._
 
 It was a conversation with his father that brought the recession home for Scott Leiserson.
@@ -35,7 +35,7 @@ He said since his family was neither impoverished nor incredibly wealthy, he was
 
 After my first year I lost my grandparents, and I didn’t have the GPA anymore to get scholarships and grants, so I had to start taking out loans.”
 
-<img src="{{ base.url }}/assets/img/post/loan3.png" alt="Coop right" style="float:right;padding: 5px" width="400">
+<img src="{{ base.url }}/assets/img/post/loan3.jpg" alt="Coop right" style="float:right;padding: 5px" width="400">
 
 Graduates today face the highest unemployment rate in recent history. In 2009, recent graduate unemployment rate was at 8.7 percent, 1.2 percent beneath the national average. In 2010, the recent graduate rate grew to 9.1 percent, while the national average fell to 9.4 percent. Defaults are up as well: The number of students defaulting on their loans is growing fast, with a 2010 default rate at 8.8 percent, in comparison with 7 percent in 2009.
 
