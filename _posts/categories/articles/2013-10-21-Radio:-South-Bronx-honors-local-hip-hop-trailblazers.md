@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Radio: South Bronx Honors Local Hip Hop Trailblazers
+title:  South Bronx Honors Local Hip Hop Trailblazers
 date:   2012-12-06 00:10:20
 categories: articles featured
 author: Michael Mott and Annie Waldman
