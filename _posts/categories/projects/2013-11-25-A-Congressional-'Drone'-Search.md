@@ -10,7 +10,7 @@ Our data class (taught by the wonderful <a href="http://www.stat.ucla.edu/~cocte
 
 Diving into the Sunlight Foundation's <a href="http://capitolwords.org/api/1/">Capitol Words API</a>, we started looking at all words spoken on the floor of the U.S. Congress since 1996. With drones trending after recent bombing in the middle east, we searched in R how often the word was said. We wondered if we could use that as a milestick for the conversation around drone warfare.
 
-First step was to examine the data. We checked the head and tails of the data to get a sense of what we were looking at, after we pulled the word drone going back to 1996 on the API:
+First step was to examine the data. We checked the head and tails of the data to get a sense of what we were looking at, after we pulled the word drone going back to 1996 on the API (warning for the faint of heart: What follows is a bunch of R code):
 
 <pre>
    sll_cw_timeseries("drone",key="b1884b38a7e04ffeb9bdc91a0a63fe1b")
