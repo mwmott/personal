@@ -51,4 +51,4 @@ Does this get us any closer to figuring out the formula for the national convers
 
 But we did find a story, and I'm sure this dataset will be useful in the future. 
 
-See our full R file (with comments) here.
+See our full R file (with comments), <a href="{{ base.url }}/assets/code/FriNov22Memo.R" download="drones.R">here</a>.
