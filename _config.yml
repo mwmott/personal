@@ -17,3 +17,5 @@ server:      false
 source:      .
 plugins:     ./_plugins
 future:      true
+
+production_url: www.mikemott.com
