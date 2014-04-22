@@ -23,12 +23,8 @@ Start-up entrepreneurs like Luu are flocking to cities across the United States 
 
 Phil Carter, a UCSC alumnus eating at Amoeba, said street food is easy to like.
 
-“It’s something different, and it’s quick and its easy,” he said. “It supports people in the community. People like that and want that.”<div class="images" style="float:right">
-		<img src="{{ base.url }}/assets/img/post/food2.jpg" alt="Chavez residents" width="300">
-        <div class="caption">
-        	Former UCSC student Valerie Luu serves up some sweet sticky rice at her Vietnamese street food “pop-up” restaurant, “Rice Paper Scissors.” Luu co-runs the business with Katie Kwan in San Francisco. Photo by Sal Ingram.
-       	</div>
-</div>​
+“It’s something different, and it’s quick and its easy,” he said. “It supports people in the community. People like that and want that.”
+<img src="{{ base.url }}/assets/img/post/food2.jpg" alt="Food right" style="float:right;padding: 5px" width="300">
 
 Now more than ever, pop-up restaurants and food trucks are thriving. Many cater events, have a strategic route and serve unique, gourmet food. These hometown businesses, whether in a truck or behind a table, are a good example of the alternative food revolution that is occurring in the Bay Area, as well as several other major U.S. cities.
 
