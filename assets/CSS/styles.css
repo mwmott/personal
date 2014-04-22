@@ -1,9 +1,9 @@
 
-#images{
+.images{
     text-align:center;
     margin:50px auto; 
 }
-#caption{
+.caption{
     margin:0px 20px;
     display:inline-block;
     text-decoration:none;

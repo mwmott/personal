@@ -31,7 +31,7 @@ Housing co-ops are nothing new. The first housing cooperatives in the United Sta
 
 Since then, cooperatives have become a popular option for college students. Housing cooperatives have grown to over a million units across the country, according to the National Cooperative Business Association (NCBA). NCBA is a resource for cooperatives of all types, such as food, credit unions, agricultural, business and housing.
 
-<div id="images" style="float:right">
+<div class="images" style="float:right">
 		<img src="{{ base.url }}/assets/img/post/coop4.jpg" alt="Chavez residents" width="300"/>
         <div class="caption">Chavez inhabitants</div>
 </div>​
@@ -46,7 +46,7 @@ Chavez and Zami! on Laurel Street are two of the largest co-ops in Santa Cruz. T
 
 NASCO, founded in 1968, is an organization that helps educate co-ops across the country. It holds an annual conference, the NASCO Institute, where it tackles common issues with co-ops. Part of the company, NASCO Properties, also holds leases, and is working with Chazam to get its debt paid off and come back to its master lease. This is instead of the individual leases it has now, which provide a little more security for NASCO.
 
-<div id="images" style="float:right">
+<div class="images" style="float:right">
 <img src="{{ base.url }}/assets/img/post/coop6.jpg" alt="Zami residents"/>
  <div class="caption">Zami house</div>
 </div>
@@ -58,7 +58,7 @@ Daniel Miller, NASCO’s director of development and property services, said tha
 
 “The whole idea behind NASCO Properties is to help the local co-op get the tools they need to run their co-op,” he said in an email. “We try to help them understand the process of starting a new non-profit, doing outreach to find new members in their community and running their co-op legally and responsibly.”
 
-<div id="images" style="float:right">
+<div class="images" style="float:right">
 <img src="{{ base.url }}/assets/img/post/coop3.jpg" alt="Food Not Lawns residents"/>
 <div class="caption">Food Not Lawns</div>
 </div>
