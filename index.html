@@ -17,7 +17,7 @@ title: Home
 	<!--Inspiration and hat tip to @destroytoday for his li design. See his at http://www.destroytoday.com/-->
 	<div class="row">	
 		<div class="span12">
-		<h4>Featured Articles</h4> 
+		<h4>Featured articles</h4> 
 		</div>
 		<div class="span12" id="columns">
 			<ul class= "unstyled">
@@ -32,11 +32,11 @@ title: Home
 	<hr width="60%" />
 	<div class="row">	
 		<div class="span12">
-		<h4>Featured Projects</h4> 
+		<h4>Projects</h4> 
 		</div>
 		<div class="span12" id="columns">
 			<ul class= "unstyled">
-			{% for post in site.categories.featured %}
+			{% for post in site.categories.projects %}
 				<li class="bars">
 					<a class="list" href="{{ post.url }}">{{ post.title }}</a>
 				</li>
