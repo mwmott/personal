@@ -38,9 +38,9 @@ While Luu and Kwan collaborate for RPS, and other pop-ups work side-by-side at t
 
 Many in the food truck community gathered for round two of SJ Eats: A Movable Feast on May 7, a San Jose convention-festival of 20 food trucks, live music and, according to its Facebook page, over 1,600 foodies.
 
-
-
 An entire street in San Pedro Square was closed for the event, with trucks lining the sidewalk. It was advertised almost entirely through its online presence on Facebook.
+
+<img src="{{ base.url }}/assets/img/post/food1.jpg" alt="Food right" style="float:right;padding: 5px" width="200">
 
 Ryan Sebastian, owner of ice cream food truck Treatbot, helped organize the event and said most meals street vendors cook are ready to eat, have small portions and are very niche.
 
@@ -120,7 +120,7 @@ Hot dog vendor Willett said street food is popular because a restaurant setting 
 Last Saturday, Kwan and Luu got together to hold their third Rice Paper Scissors together in the Mission District. They borrowed a rickshaw from another café as a prop, as the theme was food originally cooked in central Vietnam. They served shrimp chips, sesame jellyfish salad, and a total of 25 fried quail, which customers had to reserve beforehand online. The quail were stuffed with Chinese sausage and bacon sticky rice, and sold out.
 
 “It went really well,” Luu said. “It was hectic! We had about 300 people come through.”
-<img src="{{ base.url }}/assets/img/post/food1.jpg" alt="Food right" style="float:right;padding: 5px" width="200">
+
 Luu believes street food has room to grow in San Francisco, and the future is bright.
 
 “New people are getting into food every day, just trying it, trying to start their own business,” Luu said. “This trust between consumer and producer is just growing.”
