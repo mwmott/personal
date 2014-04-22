@@ -9,6 +9,8 @@ subtitle: “We write to avoid the humiliation of silence in the face of cruelty
 
 ---
 
+![Casita]({{ base.url }}/assets/img/post/casita.jpg)
+
 Local South Bronx hip-hop artist YC the Cynic performed at the concluding event of the South Bronx Culture Trail, a two-year initiative by arts and education center Casita Maria.
 
 <audio controls>
