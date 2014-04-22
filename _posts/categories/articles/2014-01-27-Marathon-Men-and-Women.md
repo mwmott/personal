@@ -28,6 +28,10 @@ In an interview in December of 2013, Schachner recalled the settlement negotiati
 
 * * *
 
+<div style="float:right">
+![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
+</div>
+
 Sitting at the head of a wooden conference table in his Bronx Courthouse chambers, Chief Administrative Judge Douglas McKeon, 65, remembered the beginning of the case. Clerks buzzed around red leather furniture for his signature, and law books adorned the mahogany shelves. He wore blue suspenders, a gold collar pin and two cellphones strapped to his waist.
 
 “This wasn’t any ordinary case,” he said, referring to the scientific complications that came with it. The case came to McKeon on January 15, 1991 when Patricia Nonnon, the mother of the late Kerri Nonnon, filed a civil suit against the city claiming that toxins dumped in the landfill may have caused her daughter’s leukemia and eventual death.
