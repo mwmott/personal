@@ -5,8 +5,9 @@ date:   2014-01-28 00:10:20
 categories: articles featured
 ---
 
-By Michael Mott
 Published on [The Uptown Chronicle](http://theuptownchronicle.com/?page_id=5763) on January 28th, 2014.
+
+By Michael Mott
 
 ![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
 
