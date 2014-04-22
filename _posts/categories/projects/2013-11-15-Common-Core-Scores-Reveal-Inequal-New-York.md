@@ -31,6 +31,12 @@ Here's the big look at the city as a whole. l34p shows the score range (in passi
   <li><img src="{{ base.url }}/assets/img/post/core7.jpg"/>And finally the Bronx, which shows a larger diversity in test scores trending toward the lower.</li>
 </ul>
 
+<script>
+		$(document).ready(function(){
+		  $('.bxslider').bxSlider();
+		});
+	</script>
+
 <!--
 Manhattan has much cooler colors generally, with smaller schools.<img src="{{ base.url }}/assets/img/post/core3.jpg" alt="NYC Common Core-Manhattan" style="float:right"/>
 
