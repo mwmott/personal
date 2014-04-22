@@ -29,7 +29,7 @@ In an interview in December of 2013, Schachner recalled the settlement negotiati
 * * *
 
 
-<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="McKeon" style="float:right" width="400">
+<img src="{{ base.url }}/assets/img/post/marathon3.jpg" alt="McKeon" style="float:right" width="400">
 
 
 Sitting at the head of a wooden conference table in his Bronx Courthouse chambers, Chief Administrative Judge Douglas McKeon, 65, remembered the beginning of the case. Clerks buzzed around red leather furniture for his signature, and law books adorned the mahogany shelves. He wore blue suspenders, a gold collar pin and two cellphones strapped to his waist.
@@ -47,6 +47,8 @@ McKeon added that he had no idea the case would last 22 years. He saw his role i
 * * *
 
 Motions and appeals about causation, science and legal procedures occupied attorneys and judges for years. Judges Stanley Green, Betty Stinson, Alexander Hunter, Jr., Paul Victor and Janice Bowman presided over the case after McKeon, and other judges presided after the city appealed it twice. Mitchel Ashley said with the appellate process, cases take time.
+
+<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="Schachner" style="float:right" width="400">
 
 Schachner said the issue of deciding whether the science was valid was a complicated issue for the judges. “A scientist is going to look at things differently than from judges and lawyers — we aren’t scientists,” he said. “Sometimes the courts are called on to determine whether the expert can prove what he wants to prove.”
 
