@@ -34,6 +34,7 @@ layout: default
 				            <span class="author">By {{ page.author }} &middot;</span>
 				        {% endif %}
 				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%B %d, %Y" }}</time>
+				        <span>in {{page.publication}}</span>
 				    </p>
 				</div>
 				{% endif %}
