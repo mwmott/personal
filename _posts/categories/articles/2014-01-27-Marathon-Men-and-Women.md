@@ -2,7 +2,7 @@
 layout: post
 title:  Marathon Men and Women
 date:   2014-01-27 00:10:20
-subtitle: "A peek into co-op life."" 
+subtitle: "A peek into co-op life." 
 categories: articles featured
 author: Michael Mott
 publication: <a src="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
