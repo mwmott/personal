@@ -66,9 +66,9 @@ Other cooperatives in Santa Cruz either own their house, or have worked out a si
 
 Ducks quack and chickens cluck behind recent UCSC alumnus Harris, who sits on a wooden bench in the garden behind Food Not Lawns. Holding a cup of tea, Harris said a love of sustainability and farming unites them.
 
-<img src="{{ base.url }}/assets/img/post/coop2.jpg" alt="Food Not Lawns residents" width="300" style="float:right;padding: 5px">
-
 “We are here to learn how to garden and to learn how to live sustainably,” he said. “We’re fortunate, we’re blessed enough to have this space where we can do that, [in which] we can work in and play.”
+
+<img src="{{ base.url }}/assets/img/post/coop2.jpg" alt="Food Not Lawns residents" width="300" style="float:right;padding: 5px">
 
 The front lawn of the house, which sprouts off between Mission and Laurel, was completely dug up a few years ago and replaced with vegetables. In the back garden, greenhouses were installed and rows of lettuce, flowers and other plants grow. Food Not Lawns was founded by a group of UCSC students who had met at Pica, a green sustainability program based out of UCSC’s The Village.
 
