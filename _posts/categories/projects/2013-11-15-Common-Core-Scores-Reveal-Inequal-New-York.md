@@ -12,7 +12,9 @@ I wanted to be able to visualize the city through the information data provided.
 
 ![Data first look]({{ base.url }}/assets/img/post/core1.jpg)
 
-We used an NYC Dep. of Edu. dataset, which was a messy .xls until Mark Hansen helped us clean it up to look like the above. We then added in school names and addresses to the pass rates, and created the following maps. Matt Collette gets the bulk of the credit for going through this work initially and then walking through with our class afterwards. But here are those maps!
+We used an NYC Dep. of Edu. dataset, which was a messy .xls until Mark Hansen helped us clean it up to look like the above. We then added in school names and addresses to the pass rates, and created the following maps. 
+
+Matt Collette gets the bulk of the credit for going through this work initially and then walking through with our class afterwards. But here are those maps!
 
 ![NYC Scores]({{ base.url }}/assets/img/post/core2.jpg)
 
@@ -20,12 +22,22 @@ Here's the big look at the city as a whole. l34p shows the score range (in passi
 
 #####Across the five boroughs#####
 
+
+<ul class="bxslider">
+  <li><img src="{{ base.url }}/assets/img/post/core3.jpg"/>Manhattan has much cooler colors generally, with smaller schools.</li>
+  <li><img src="{{ base.url }}/assets/img/post/core4.jpg"/>When we get out to Brooklyn and the other outer boroughts, the dots tend to get larger and warmer, indicated lower test scores in larger schools.</li>
+  <li><img src="{{ base.url }}/assets/img/post/core5.jpg"/>Queens is mostly in the ~25% zone, except for Jackson Heights and Elmhurst. This might indicate a future lead to follow-up on later for an education story.</li>
+  <li><img src="{{ base.url }}/assets/img/post/core6.jpg"/>Staten Island has fewer schools, with those there being larger than the average.</li>
+  <li><img src="{{ base.url }}/assets/img/post/core7.jpg"/>And finally the Bronx, which shows a larger diversity in test scores trending toward the lower.</li>
+</ul>
+
+<!--
 Manhattan has much cooler colors generally, with smaller schools.<img src="{{ base.url }}/assets/img/post/core3.jpg" alt="NYC Common Core-Manhattan" style="float:right"/>
 
 When we get out to Brooklyn and the other outer boroughts, the dots tend to get larger and warmer, indicated lower test scores in larger schools.<img src="{{ base.url }}/assets/img/post/core4.jpg" alt="NYC Common Core-Brooklyn" style="float:right"/>
 
-Queens is mostly in the ~25% zone, except for Flushing. This might indicate a future lead to follow-up on later for an education story.<img src="{{ base.url }}/assets/img/post/core5.jpg" alt="NYC Common Core-Queens" style="float:right"/>
+Queens is mostly in the ~25% zone, except for Jackson Heights and Elmhurst. This might indicate a future lead to follow-up on later for an education story.<img src="{{ base.url }}/assets/img/post/core5.jpg" alt="NYC Common Core-Queens" style="float:right"/>
 
 Staten Island has fewer schools, with those there being larger than the average.<img src="{{ base.url }}/assets/img/post/core6.jpg" alt="NYC Common Core-Staten Island" style="float:right"/>
 
-And finally the Bronx, which shows a larger diversity in test scores trending toward the lower.<img src="{{ base.url }}/assets/img/post/core7.jpg" alt="NYC Common Core-Bronx" style="float:right"/>
+And finally the Bronx, which shows a larger diversity in test scores trending toward the lower.<img src="{{ base.url }}/assets/img/post/core7.jpg" alt="NYC Common Core-Bronx" style="float:right"/>-->
