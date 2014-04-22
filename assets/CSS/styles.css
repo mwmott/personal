@@ -1,12 +1,8 @@
-.row{
-    overflow: hidden; 
-}
-
 #columns{
 -webkit-column-count:2; /* Chrome, Safari, Opera */
 -moz-column-count:2; /* Firefox */
 column-count:2;
-height:20px;
+height:10px;
 }
 
 
