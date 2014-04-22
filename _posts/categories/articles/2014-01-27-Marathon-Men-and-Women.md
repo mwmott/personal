@@ -47,8 +47,6 @@ McKeon added that he had no idea the case would last 22 years. He saw his role i
 
 Motions and appeals about causation, science and legal procedures occupied attorneys and judges for years. Judges Stanley Green, Betty Stinson, Alexander Hunter, Jr., Paul Victor and Janice Bowman presided over the case after McKeon, and other judges presided after the city appealed it twice. Mitchel Ashley said with the appellate process, cases take time.
 
-<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="Schachner" style="float:right;padding:5px" width="400">
-
 Schachner said the issue of deciding whether the science was valid was a complicated issue for the judges. “A scientist is going to look at things differently than from judges and lawyers — we aren’t scientists,” he said. “Sometimes the courts are called on to determine whether the expert can prove what he wants to prove.”
 
 The city continued to argue that it would be impossible to prove the link between toxic dumping and leukemia at the landfill. And two of the judges agreed. After the case’s first appeal was rejected in a 3-2 decision, Judge Richard T. Andrias wrote a dissenting opinion which questioned the science, calling it “fuzzy science at its worst,” court documents show.
@@ -65,6 +63,8 @@ The city’s side was now in the hands of the city’s negotiating team, a group
 
 The city had offered small amounts for a settlement before, Ashley said, but now was gradually offering amounts that were becoming more agreeable to the plaintiffs. “We came back the next time and they came up to five mil,” Ashley said. “And so it went back and forth like that for awhile.”
 Ashley said at first, he didn’t think the city would offer enough for a settlement though. “It was the same old stuff we had been dealing with for years, where the city would say they really wanted to settle the case but would make offers that would obviously never be able to settle [it].”
+
+<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="Schachner" style="float:right;padding:5px" width="400">
 
 Ashley said it was Schachner’s ability to get both sides to trust him that led to the settlement. During the negotiations, Schachner and Ashley said the city and plaintiff’s lawyers met initially, then would separate, and Schachner would send one side out while he worked with the other.
 
