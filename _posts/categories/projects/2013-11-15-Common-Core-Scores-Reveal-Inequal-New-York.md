@@ -18,11 +18,11 @@ We used an NYC Dep. of Edu. dataset, which was a messy .xls until Mark Hansen he
 
 Here's the big look at the city as a whole. l34p shows the score range (in passing percentage), and the size of the dot indicates how many of the tests were taken. Notice in the outer boroughs how the dots tend to be larger and warmer, indicating future leads for stories in New York education.
 
-<img src="{{ base.url }}/assets/img/post/core3.jpg)" alt="NYC Common Core-Manhattan" style="float:left">
-<img src="{{ base.url }}/assets/img/post/core4.jpg)" alt="NYC Common Core-Brooklyn" style="float:right">
+<img src="{{ base.url }}/personal/assets/img/post/core3.jpg)" alt="NYC Common Core-Manhattan" style="float:left">
+<img src="{{ base.url }}/personal/assets/img/post/core4.jpg)" alt="NYC Common Core-Brooklyn" style="float:right">
 
 
-<img src="{{ base.url }}/assets/img/post/core5.jpg)" alt="NYC Common Core-Queens" style="float:left">
-<img src="{{ base.url }}/assets/img/post/core6.jpg)" alt="NYC Common Core-Staten Island" style="float:right">
+<img src="{{ base.url }}/personal/assets/img/post/core5.jpg)" alt="NYC Common Core-Queens" style="float:left">
+<img src="{{ base.url }}/personal/assets/img/post/core6.jpg)" alt="NYC Common Core-Staten Island" style="float:right">
 
-<img src="{{ base.url }}/assets/img/post/core7.jpg)" alt="NYC Common Core-Bronx" align="middle">
+<img src="{{ base.url }}/personal/assets/img/post/core7.jpg)" alt="NYC Common Core-Bronx" align="middle">
