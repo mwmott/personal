@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: project
 title:  South Bronx Honors Local Hip Hop Trailblazers
-date:   2012-12-06 00:10:20
+date:   2013-21-10 00:10:20
 categories: articles featured
 author: Michael Mott and Annie Waldman
 publication: <a href="http://columbiajournalist.org/www/514-audio-south-bronx-honors-local-hip-hop-trailblazers/story">The Columbia Journalist</a>
