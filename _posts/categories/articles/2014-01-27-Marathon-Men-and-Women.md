@@ -4,17 +4,12 @@ title:  Marathon Men and Women
 date:   2014-01-27 00:10:20
 categories: articles featured
 author: Michael Mott
-publication: <a class="list" src="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
+publication: <a src="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
 ---
+_This piece is one in a series about the Pelham Bay Landfill Case, a 22-year case that settled in July of 2013. At Columbia’s Journalism School, my classmates and I covered the case from a variety of perspectives — I took the judges._
 
 ![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
 _All photos by Michael Mott._
-
-_This piece is one in a series about the Pelham Bay Landfill Case, a 22-year case that settled in July of 2013. At Columbia’s Journalism School, my classmates and I covered the case from a variety of perspectives — I took the judges._
-
-Published on [The Uptown Chronicle](http://theuptownchronicle.com/?page_id=5763) on January 28th, 2014.
-
-By Michael Mott
 
 __It wasn’t easy presiding over the Pelham Bay case.__
 
