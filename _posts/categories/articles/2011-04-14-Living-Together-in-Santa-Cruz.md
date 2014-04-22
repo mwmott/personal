@@ -1,16 +1,18 @@
 ---
 layout: post
 title:  Living Together in Santa Cruz
+subtitle: A peek into co-op life. 
 date:   2011-04-14 00:10:20
 categories: articles featured
+author: Michael Mott
+publication: <a src="http://www.cityonahillpress.com/2011/04/14/living-together-in-santa-cruz/">City on a Hill Press</a>
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
+<hr width="90%" align="middle" />
 
-_A peek into co-op life. Illustration by Bela Massex, photo by Prescott Watson._
+![Coop cover]({{ site.url }}/assets/img/post/coop7.jpg)
+_Illustration by Bela Massex, photo by Prescott Watson._
 
-By Michael Mott
-_Published in_ City on a Hill Press _on January 20th, 2012.
 
 The wall is plastered with bears. One is eating a human foot, while another holds a fish up like a trophy.
 
