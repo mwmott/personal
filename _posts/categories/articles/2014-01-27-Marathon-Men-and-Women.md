@@ -2,7 +2,6 @@
 layout: post
 title:  Marathon Men and Women
 date:   2014-01-27 00:10:20
-subtitle: A peek into co-op life. 
 categories: articles featured
 author: Michael Mott
 publication: <a src="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
@@ -13,7 +12,7 @@ __<div style="padding: 10px 20px 20px 0px;">
 This piece is one in a series about the Pelham Bay Landfill Case, a 22-year Bronx case that settled in July of 2013. My classmates and I at Columbia's School of Journalism covered the landmark case from a variety of perspectives. I took the judges.
 </div>__
 
-![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
+![Marathon cover]({{ base.url }}/personal/assets/img/post/marathon1.jpg)
 _Photos by Michael Mott._
 
 __It wasn’t easy presiding over the Pelham Bay case.__
