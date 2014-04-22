@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Remembering Don Rothman
+title:  Community Responds to Arizona Shooting
 date:   2012-01-20 00:10:20
-categories: stories CHP
+categories: articles featured
+author: Michael Mott
+publication: <a href="http://www.cityonahillpress.com/2011/01/20/community-responds-to-arizona-shooting/">City on a Hill Press</a>
+
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
-
-By Michael Mott
-_Published in_ City on a Hill Press _on January 20th, 2012.
+![G. Z. Memorial]({{ site.url }}/assets/img/post/shoot.jpg)
 
 #####Rep. Sam Farr (D-Santa Cruz) and sociology professor Paul Lubeck sit in remembrance of UCSC alumnus Gabe Zimmerman, who was gunned down Jan. 8 in Tucson, Ariz. Photo by Isaac Miller.#####
 
