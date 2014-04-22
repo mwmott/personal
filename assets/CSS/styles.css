@@ -1,3 +1,16 @@
+
+#images{
+    text-align:center;
+    margin:50px auto; 
+}
+#caption{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+ }
+
+
 #columns{
     -webkit-column-count:2; /* Chrome, Safari, Opera */
     -moz-column-count:2; /* Firefox */
