@@ -31,10 +31,10 @@ Housing co-ops are nothing new. The first housing cooperatives in the United Sta
 
 Since then, cooperatives have become a popular option for college students. Housing cooperatives have grown to over a million units across the country, according to the National Cooperative Business Association (NCBA). NCBA is a resource for cooperatives of all types, such as food, credit unions, agricultural, business and housing.
 
-<div>
+<figure>
 <img src="{{ base.url }}/assets/img/post/coop4.jpg" alt="Chavez residents" style="float:left;padding: 5px" width="300">
-<p><em style="float:left">Chavez inhabitants</em></p>
-</div>
+<figcaption>Chavez inhabitants</figcaption>
+</figure>
 
 Currently, UC Berkeley has one of the largest network of student co-ops, with 17 houses and 1,300 students in the Berkeley Student Cooperative. Their network is solely focused on students, while most in Santa Cruz are open to anyone, including non-students.
 
@@ -46,10 +46,10 @@ Chavez and Zami! on Laurel Street are two of the largest co-ops in Santa Cruz. T
 
 NASCO, founded in 1968, is an organization that helps educate co-ops across the country. It holds an annual conference, the NASCO Institute, where it tackles common issues with co-ops. Part of the company, NASCO Properties, also holds leases, and is working with Chazam to get its debt paid off and come back to its master lease. This is instead of the individual leases it has now, which provide a little more security for NASCO.
 
-<div>
+<figure>
 <img src="{{ base.url }}/assets/img/post/coop6.jpg" alt="Zami residents" style="float:right;padding: 5px">
-<p><em>Zami house</em></p>
-</div>
+<figcaption>Zami house</figcaption>
+</figure>
 
 
 While individual leases give NASCO more financial security, NASCO is committed to helping Chazam get back on their feet, and gain more local control with a master lease,
@@ -58,10 +58,10 @@ Daniel Miller, NASCO’s director of development and property services, said tha
 
 “The whole idea behind NASCO Properties is to help the local co-op get the tools they need to run their co-op,” he said in an email. “We try to help them understand the process of starting a new non-profit, doing outreach to find new members in their community and running their co-op legally and responsibly.”
 
-<div>
+<figure>
 <img src="{{ base.url }}/assets/img/post/coop3.jpg" alt="Food Not Lawns residents" style="float:right;padding: 5px">
-<p><em>Food Not Lawns</em></p>
-</div>
+<figcaption>Food Not Lawns</figcaption>
+</figure>
 
 Other cooperatives in Santa Cruz either own their house, or have worked out a situation with their landlord to allow a cooperative to exist. Food Not Lawns is one such co-op.
 
