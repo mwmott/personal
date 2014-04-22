@@ -12,21 +12,21 @@ Diving into the Sunlight Foundation's <a href="http://capitolwords.org/api/1/">C
 
 First step was to examine the data. We checked the head and tails of the data to get a sense of what we were looking at, after we pulled the word drone going back to 1996 on the API:
 
-<code>
+<pre>
    sll_cw_timeseries("drone",key="b1884b38a7e04ffeb9bdc91a0a63fe1b")
-</code>
+</pre>
 
 Then plotted it simply:
 
-<code>
+<pre>
 plot(dronets$day,dronets$count)
-</code>
+</pre>
 
 ![Drone sketch]({{ base.url }}/assets/img/post/drone1.png)
 
 From this rough sketch we saw there was a major outlier: the spike on the y-axis. 
 
-<code>
+<pre>
 	# ggplot of word 'drone' over time, sorted by party.
 	install.packages(ggplot2)
 	library(ggplot2)
@@ -39,7 +39,7 @@ From this rough sketch we saw there was a major outlier: the spike on the y-axis
 	dat_both <- rbind(dat_d, dat_r)
 	ggplot(dat_both, aes(day, count, colour=party)) + geom_line() +
 	theme_grey(base_size=20) + scale_colour_manual(values=c("blue","red"))
-</code>
+</pre>
 
 Breaking this down by party showed the general trend of the word's usage between parties.
 
