@@ -23,7 +23,12 @@ Start-up entrepreneurs like Luu are flocking to cities across the United States 
 
 Phil Carter, a UCSC alumnus eating at Amoeba, said street food is easy to like.
 
-“It’s something different, and it’s quick and its easy,” he said. “It supports people in the community. People like that and want that.”
+“It’s something different, and it’s quick and its easy,” he said. “It supports people in the community. People like that and want that.”<div class="images" style="float:right">
+		<img src="{{ base.url }}/assets/img/post/food2.jpg" alt="Chavez residents" width="300">
+        <div class="caption">
+        	Former UCSC student Valerie Luu serves up some sweet sticky rice at her Vietnamese street food “pop-up” restaurant, “Rice Paper Scissors.” Luu co-runs the business with Katie Kwan in San Francisco. Photo by Sal Ingram.
+       	</div>
+</div>​
 
 Now more than ever, pop-up restaurants and food trucks are thriving. Many cater events, have a strategic route and serve unique, gourmet food. These hometown businesses, whether in a truck or behind a table, are a good example of the alternative food revolution that is occurring in the Bay Area, as well as several other major U.S. cities.
 
@@ -36,6 +41,8 @@ Besides the struggles of running a small business, street food vendors face othe
 While Luu and Kwan collaborate for RPS, and other pop-ups work side-by-side at the San Francisco Underground Market, food trucks are also finding that it’s helpful to come together.
 
 Many in the food truck community gathered for round two of SJ Eats: A Movable Feast on May 7, a San Jose convention-festival of 20 food trucks, live music and, according to its Facebook page, over 1,600 foodies.
+
+
 
 An entire street in San Pedro Square was closed for the event, with trucks lining the sidewalk. It was advertised almost entirely through its online presence on Facebook.
 
@@ -67,6 +74,8 @@ He added that he is afraid for pop-up restaurants.
 
 “Us food trucks, we have to pass health regulations, get business permits, rent out our spaces, and pop-ups don’t,” he said. “Someday they’re going to end up hurting someone.”
 
+<img src="{{ base.url }}/assets/img/post/food7.jpg" alt="Food right" style="float:right;padding: 5px" width="200">
+
 Many customers don’t see the risk, however. Luu said she thinks street food is the safest food there is.
 
 “It’s very rare to see your food being made in front of you and to look your cook in the eye ­— even at a restaurant you don’t really get that,” she said.
@@ -94,6 +103,7 @@ Food trucks that follow the proper legislation do exist in Santa Cruz, and pop-u
 “The problem with setting up anywhere is when you set up just anywhere there’s no consideration for traffic, [or] whether they are blocking access,” Strader said.
 
 Street food is nothing new, though. It’s a cultural phenomenon, one that has its roots in city slums, taco trucks, familiar hotdog carts in New York, and for Luu, in rural Vietnam.
+<img src="{{ base.url }}/assets/img/post/food4.jpg" alt="Food right" style="float:right;padding: 5px" width="200">
 
 “I get a lot of recipes from my grandmother, and in Vietnam it’s just a way of life,” she said. “It’s about learning about my culture in a way that’s interesting to me, it’s a way [that] I can really delve into it and speak about it.”
 
@@ -102,6 +112,8 @@ Monica Wong, one of the owners of Bay Area Vietnamese food truck Little Green Cy
 “Street food is popular in Asia,” she said. “But here we’re highly regulated, [so] it’s on a much cleaner, organic level.”
 
 Andrew Thai, one of the volunteers at SJ Eats and a third-year at San Jose State, said there isn’t a stigma associated with street food, that anyone can jump in.
+
+<img src="{{ base.url }}/assets/img/post/food5.jpg" alt="Food right" style="float:right;padding: 5px" width="200">
 
 “In a restaurant you have your own table and you don’t know the person next to you. There’s a boundary there,” he said. “But on the street, everyone’s everyone and there’s nothing stopping you to talk with that person who got the same ice cream as you. It’s great to have that community.”
 
@@ -112,7 +124,7 @@ Hot dog vendor Willett said street food is popular because a restaurant setting 
 Last Saturday, Kwan and Luu got together to hold their third Rice Paper Scissors together in the Mission District. They borrowed a rickshaw from another café as a prop, as the theme was food originally cooked in central Vietnam. They served shrimp chips, sesame jellyfish salad, and a total of 25 fried quail, which customers had to reserve beforehand online. The quail were stuffed with Chinese sausage and bacon sticky rice, and sold out.
 
 “It went really well,” Luu said. “It was hectic! We had about 300 people come through.”
-
+<img src="{{ base.url }}/assets/img/post/food1.jpg" alt="Food right" style="float:right;padding: 5px" width="200">
 Luu believes street food has room to grow in San Francisco, and the future is bright.
 
 “New people are getting into food every day, just trying it, trying to start their own business,” Luu said. “This trust between consumer and producer is just growing.”
