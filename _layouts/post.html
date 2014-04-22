@@ -5,7 +5,9 @@ layout: default
 <section class="content">
 	<div class="container main-content-container">
 		<div class="row">
-			<div class="span9">
+			<div class="span1">
+			</div>
+			<div class="span10">
 				{% if page.image.feature %}
 				<div align="middle" style="background-image: url('{{ site.url }}/assets/img/{{ page.image.feature }}')">
 					
@@ -36,6 +38,8 @@ layout: default
 				</div>
 				{% endif %}
 				{{ content }}
+			</div>
+			<div class="span1">
 			</div>
 		</div>
 	</div>
