@@ -3,6 +3,8 @@ layout: post
 title:  Marathon Men and Women
 date:   2014-01-28 00:10:20
 categories: articles featured
+image:
+featured: "Marathon cover"
 ---
 
 By Michael Mott
@@ -12,7 +14,7 @@ Published on [The Uptown Chronicle](http://theuptownchronicle.com/?page_id=5763)
 
 __This piece is one in a series about the Pelham Bay Landfill Case, a 22-year case that settled in July of 2013. At Columbia’s Journalism School, my classmates and I covered the case from a variety of perspectives — I took the judges. All photos by Michael Mott.__
 
-It wasn’t easy presiding over the Pelham Bay case
+__It wasn’t easy presiding over the Pelham Bay case.__
 
 Days turned into weeks, weeks turned into months and months turned into years, twenty-two of them before a trial date was set. Now it was July of 2013 at the Bronx County Supreme Court, and with a month left before the Pelham Bay Landfill case would be tried, the lawyers and Bronx Judge Larry Schachner were struggling to reach a settlement.
 
