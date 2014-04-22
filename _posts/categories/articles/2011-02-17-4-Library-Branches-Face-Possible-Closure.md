@@ -9,7 +9,7 @@ subtitle: City council postpones vote after public hearing
 
 ---
 
-![Library]({{ site.url }}/assets/img/post/lib.jpg)
+![Library]({{ base.url }}/assets/img/post/lib.jpg)
 _SANTA CRUZ RESIDENT Ron Pomerantz stands to speak against the library closures. Citizens unhappy with the decision packed the room during the comment session Monday night. Photo by Prescott Watson_
 
 Despite community opposition, four libraries in the Santa Cruz area are at risk of being closed.
