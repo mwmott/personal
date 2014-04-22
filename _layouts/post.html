@@ -27,11 +27,11 @@ layout: default
 				{% endif %}
 				    </div><!-- entry-image -->
 				{% else %}
-			    {% if page.subtitle %}
-                    <span>By {{ page.subtitle }} &middot;</span>
-                {% endif %}
 				<div class="text__container">
 				    <h2>{{ page.title }}</h2>
+				    {% if page.subtitle %}
+	                    <span><em>{{ page.subtitle }}</em></span>
+	                {% endif %}
 				    <p class="meta">
 				        {% if page.author %}
 				            <span class="author">By {{ page.author }} &middot;</span>
