@@ -3,7 +3,7 @@ description: This is the Personal Website of Michael Warren Mott.
 author: Michael Mott
 author_email: michaelwarrenmott@gmail.com
 baseurl: /personal
-url: "http://localhost:4000/"
+url: "mwmott.github.io"
 
 markdown: redcarpet
 permalink: /:categories/:title
