@@ -2,12 +2,14 @@
 layout: post
 title:  Colors Ebb and Flow
 date:   2011-05-05 00:10:20
-categories: stories CHP
+categories: articles featured
+author: Michael Mott
+publication: <a href="http://www.cityonahillpress.com/2011/05/05/colors-ebb-and-flow/">City on a Hill Press</a>
+subtitle: Womyn of Color Conferences draws delegates from across the state
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
-
-Womyn of Color Conferences draws delegates from across the state. Photo by Michael Mott.
+![Performers dance]({{ base.url }}/assets/img/post/dance.jpg)
+_Haluan dancers perform Saturday at the Womyn of Color Conference. Photo by Michael Mott_
 
 “I am mixed, I am beautiful and I am proud,” said UC Santa Cruz student Alana Duvernay in a spoken-word poem at this year’s Womyn of Color Conference.
 
