@@ -32,7 +32,7 @@ Housing co-ops are nothing new. The first housing cooperatives in the United Sta
 Since then, cooperatives have become a popular option for college students. Housing cooperatives have grown to over a million units across the country, according to the National Cooperative Business Association (NCBA). NCBA is a resource for cooperatives of all types, such as food, credit unions, agricultural, business and housing.
 
 <figure>
-<img src="{{ base.url }}/assets/img/post/coop4.jpg" alt="Chavez residents" style="float:left;padding: 5px" width="300"/>
+<img src="{{ base.url }}/assets/img/post/coop4.jpg" alt="Chavez residents" style="float:left;padding: 0px 5px 5px 5px" width="300"/>
 <figcaption>Chavez inhabitants</figcaption>
 </figure>
 
