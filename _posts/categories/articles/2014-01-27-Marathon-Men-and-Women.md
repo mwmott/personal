@@ -29,9 +29,6 @@ In an interview in December of 2013, Schachner recalled the settlement negotiati
 * * *
 
 
-<img src="{{ base.url }}/assets/img/post/marathon3.jpg" alt="McKeon" style="float:right" width="400">
-
-
 Sitting at the head of a wooden conference table in his Bronx Courthouse chambers, Chief Administrative Judge Douglas McKeon, 65, remembered the beginning of the case. Clerks buzzed around red leather furniture for his signature, and law books adorned the mahogany shelves. He wore blue suspenders, a gold collar pin and two cellphones strapped to his waist.
 
 “This wasn’t any ordinary case,” he said, referring to the scientific complications that came with it. The case came to McKeon on January 15, 1991 when Patricia Nonnon, the mother of the late Kerri Nonnon, filed a civil suit against the city claiming that toxins dumped in the landfill may have caused her daughter’s leukemia and eventual death.
@@ -39,6 +36,8 @@ Sitting at the head of a wooden conference table in his Bronx Courthouse chamber
 With his prior experience in malpractice cases, McKeon said he had seen similar cases based on causation before. He said, however, the science involved in the Pelham Bay case brought many new issues.
 
 “Epidemiology, causation … these were areas that were growing at the time,” McKeon said. “Why has someone become sick? We deal with it in medical malpractice … [but] there was a suspicion over the scientific assistance that wasn’t what it is today.”
+
+<img src="{{ base.url }}/assets/img/post/marathon3.jpg" alt="McKeon" style="float:right;padding:5px" width="400">
 
 McKeon added that he had no idea the case would last 22 years. He saw his role in the beginning to give the case due process, and to make sure the families charging the city knew that.
 
@@ -48,7 +47,7 @@ McKeon added that he had no idea the case would last 22 years. He saw his role i
 
 Motions and appeals about causation, science and legal procedures occupied attorneys and judges for years. Judges Stanley Green, Betty Stinson, Alexander Hunter, Jr., Paul Victor and Janice Bowman presided over the case after McKeon, and other judges presided after the city appealed it twice. Mitchel Ashley said with the appellate process, cases take time.
 
-<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="Schachner" style="float:right" width="400">
+<img src="{{ base.url }}/assets/img/post/marathon2.jpg" alt="Schachner" style="float:right;padding:5px" width="400">
 
 Schachner said the issue of deciding whether the science was valid was a complicated issue for the judges. “A scientist is going to look at things differently than from judges and lawyers — we aren’t scientists,” he said. “Sometimes the courts are called on to determine whether the expert can prove what he wants to prove.”
 
