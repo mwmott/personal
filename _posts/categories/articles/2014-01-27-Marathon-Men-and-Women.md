@@ -8,9 +8,9 @@ publication: <a href="http://theuptownchronicle.com/?page_id=5763">The Uptown Ch
 ---
 
 <hr width="90%" align="middle" />
-__<div style="padding: 10px 20px 20px 0px;">
+_<div style="padding: 10px 20px 20px 0px;">
 This piece is one in a series about the Pelham Bay Landfill Case, a 22-year Bronx case that settled in July of 2013. My classmates and I at Columbia's School of Journalism covered the landmark case from a variety of perspectives. I took the judges.
-</div>__
+</div>_
 
 ![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
 _Photos by Michael Mott._
