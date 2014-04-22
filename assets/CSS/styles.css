@@ -24,10 +24,6 @@
 body 
 { padding-top: 70px; }
 
-.article{
-    font-family: 'EB Garamond', 'serif', 'sans-serif'
-}
-
 
 a.list:link {color: black;}      /* unvisited link */
 a.list:visited {color: black;}   /* visited link */
