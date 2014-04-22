@@ -33,7 +33,7 @@ layout: default
 				        {% if page.author %}
 				            <span class="author">by {{ page.author }} &middot;</span>
 				        {% endif %}
-				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%-d %B, %Y" }}</time>
+				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%B %d, %Y" }}</time>
 				    </p>
 				</div>
 				{% endif %}
