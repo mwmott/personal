@@ -68,11 +68,11 @@ Ducks quack and chickens cluck behind recent UCSC alumnus Harris, who sits on a 
 
 “We are here to learn how to garden and to learn how to live sustainably,” he said. “We’re fortunate, we’re blessed enough to have this space where we can do that, [in which] we can work in and play.”
 
-<img src="{{ base.url }}/assets/img/post/coop2.jpg" alt="Food Not Lawns residents" width="300" style="float:right;padding: 5px">
-
 The front lawn of the house, which sprouts off between Mission and Laurel, was completely dug up a few years ago and replaced with vegetables. In the back garden, greenhouses were installed and rows of lettuce, flowers and other plants grow. Food Not Lawns was founded by a group of UCSC students who had met at Pica, a green sustainability program based out of UCSC’s The Village.
 
 Harris, who has been a member for a year and a half, will be teaching a Free Skool course this year, along with two of his housemates.
+
+<img src="{{ base.url }}/assets/img/post/coop2.jpg" alt="Food Not Lawns residents" width="300" style="float:right;padding: 5px">
 
 Free Skool, a community-driven education system loosely organized by residents of Santa Cruz, is all about free learning for anyone who wants it, by whoever wants to teach it.
 
