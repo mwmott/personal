@@ -7,8 +7,8 @@ author: Michael Mott
 publication: <a src="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
 ---
 
-<div style="padding:15px">
-This piece is one in a series about the Pelham Bay Landfill Case, a 22-year case that settled in July of 2013. At Columbia’s Journalism School, my classmates and I covered the case from a variety of perspectives — I took the judges.
+<div style="padding:30px 15px">
+This piece is one in a series about the Pelham Bay Landfill Case, a 22-year Bronx case that settled in July of 2013. My classmates at Columbia's School of Journalism and I covered the case from a variety of perspectives. I took the judges.
 </div>
 
 ![Marathon cover]({{ base.url }}/assets/img/post/marathon1.jpg)
