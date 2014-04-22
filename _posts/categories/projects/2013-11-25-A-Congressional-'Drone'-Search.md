@@ -22,7 +22,7 @@ Then plotted it simply:
 plot(dronets$day,dronets$count)
 </code>
 
-![Drone sketch]({{ base.url }}/assets/img/post/drone1.png/)
+![Drone sketch]({{ base.url }}/assets/img/post/drone1.png)
 
 From this rough sketch we saw there was a major outlier: the spike on the y-axis. 
 
@@ -43,7 +43,7 @@ From this rough sketch we saw there was a major outlier: the spike on the y-axis
 
 Breaking this down by party showed the general trend of the word's usage between parties.
 
-![Drone finish]({{ base.url }}/assets/img/post/drone2.png/)
+![Drone finish]({{ base.url }}/assets/img/post/drone2.png)
 
 As we can see, the largest usage was Rand Paul's 235 repetitions during his filibuster in mid-March of last year.
 
