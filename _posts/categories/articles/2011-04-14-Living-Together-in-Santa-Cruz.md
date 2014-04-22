@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Living Together in Santa Cruz
-subtitle: A peek into co-op life. 
+subtitle: A peek into co-op life 
 date:   2011-04-14 00:10:20
 categories: articles featured
 author: Michael Mott
