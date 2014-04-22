@@ -1,8 +1,9 @@
 #columns{
--webkit-column-count:2; /* Chrome, Safari, Opera */
--moz-column-count:2; /* Firefox */
-column-count:2;
-height:120px;
+    -webkit-column-count:2; /* Chrome, Safari, Opera */
+    -moz-column-count:2; /* Firefox */
+    column-count:2;
+    height:120px;
+    padding-left:5px;
 }
 
 
