@@ -4,9 +4,7 @@ title:  South Bronx Honors Local Hip Hop Trailblazers
 date:   2012-12-06 00:10:20
 categories: articles featured
 author: Michael Mott
-publication: <a href="http://columbiajournalist.org/www/514-audio-south-bronx-honors-local-hip-hop-trailblazers/story">The Columbia Journalists</a>
-subtitle: “We write to avoid the humiliation of silence in the face of cruelty and injustice.” 
-
+publication: <a href="http://columbiajournalist.org/www/514-audio-south-bronx-honors-local-hip-hop-trailblazers/story">The Columbia Journalist</a>
 ---
 
 ![Casita]({{ base.url }}/assets/img/post/casita.jpg)
