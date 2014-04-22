@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  Remembering Don Rothman
+title:  Street Savor
 date:   2011-05-19 00:10:20
 categories: articles featured
+author: Michael Mott
+publication: <a href="http://www.cityonahillpress.com/2011/05/19/street-savor/">City on a Hill Press</a>
+
 ---
 
-![Don Rothman photos]({{ site.url }}/assets/img/post/don.png)
-
-By Michael Mott
-_Published in_ City on a Hill Press _May 19th, 2011_
-
-_A revolution in food consumption faces many challenges, but has a bright future_
+![Food cover]({{ base.url }}/assets/img/post/food0.jpg)
 
 Valerie Luu doesn’t work at a desk. Underneath a forest of skyscrapers, between the lamp posts and fire hydrants of San Francisco, Luu and others cook and serve food on the city’s streets.
 
