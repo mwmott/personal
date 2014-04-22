@@ -44,12 +44,13 @@ Morgan Harris of the Food Not Lawns co-op off of Mission Street, said there are 
 
 Chavez and Zami! on Laurel Street are two of the largest co-ops in Santa Cruz. They’re sister houses, meaning they make up an organization called the Santa Cruz Student Housing Cooperative (SCSHC), colliqually known as “Chazam.” They work together on projects, from building chicken coops to writing co-op cookbooks, and they also share a lease with a the North American Students of Cooperation (NASCO).
 
+NASCO, founded in 1968, is an organization that helps educate co-ops across the country. It holds an annual conference, the NASCO Institute, where it tackles common issues with co-ops. Part of the company, NASCO Properties, also holds leases, and is working with Chazam to get its debt paid off and come back to its master lease. This is instead of the individual leases it has now, which provide a little more security for NASCO.
+
 <div>
 <img src="{{ base.url }}/assets/img/post/coop6.jpg" alt="Zami residents" style="float:right;padding: 5px">
 <p><em style="float:right">Zami house</em></p>
 </div>
 
-NASCO, founded in 1968, is an organization that helps educate co-ops across the country. It holds an annual conference, the NASCO Institute, where it tackles common issues with co-ops. Part of the company, NASCO Properties, also holds leases, and is working with Chazam to get its debt paid off and come back to its master lease. This is instead of the individual leases it has now, which provide a little more security for NASCO.
 
 While individual leases give NASCO more financial security, NASCO is committed to helping Chazam get back on their feet, and gain more local control with a master lease,
 
