@@ -28,14 +28,12 @@ Neighbor relations, zoning problems, debt and a fire in 2005 all affected planne
 “We’re definitely on the up right now, which is really exciting to see,” he said. “We’re still working out some kinks with getting the house back on track in terms of work shifts and making sure people do them, and getting it into a fully functioning co-op, but it’s so much better than it’s been in the past.”
 
 Housing co-ops are nothing new. The first housing cooperatives in the United States popped up in New York City in the late 1800s, initially serving the upper class. Eventually they became widely populated by union workers who didn’t want to live in the slums.
-
 <div class="images" style="float:right">
 		<img src="{{ base.url }}/assets/img/post/coop4.jpg" alt="Chavez residents" width="300">
         <div class="caption">
         	Chavez inhabitants
        	</div>
 </div>​
-
 Since then, cooperatives have become a popular option for college students. Housing cooperatives have grown to over a million units across the country, according to the National Cooperative Business Association (NCBA). NCBA is a resource for cooperatives of all types, such as food, credit unions, agricultural, business and housing.
 
 Currently, UC Berkeley has one of the largest network of student co-ops, with 17 houses and 1,300 students in the Berkeley Student Cooperative. Their network is solely focused on students, while most in Santa Cruz are open to anyone, including non-students.
