@@ -7,7 +7,7 @@ author: Michael Mott
 publication: <a src="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
 ---
 
-<hr width="100%" align="middle" />
+<hr width="80%" align="middle" />
 __<div style="padding: 25px 20px 20px 15px;">
 This piece is one in a series about the Pelham Bay Landfill Case, a 22-year Bronx case that settled in July of 2013. My classmates and I at Columbia's School of Journalism covered the landmark case from a variety of perspectives. I took the judges.
 </div>__
