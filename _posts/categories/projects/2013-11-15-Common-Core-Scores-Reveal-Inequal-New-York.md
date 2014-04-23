@@ -22,7 +22,7 @@ Here's the big look at the city as a whole. l34p shows the score range (in passi
 
 ####Mapping across the five boroughs####
 
-<div class="row"
+<div class="row">
 <span>Manhattan has much cooler colors generally, with smaller schools.</span><span><img src="{{ base.url }}/assets/img/post/core3.jpg" alt="NYC Common Core-Manhattan" style="float:right" width="400"></span>
 </div>
 
