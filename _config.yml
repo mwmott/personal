@@ -12,6 +12,8 @@ analytics:
 	provider: google
 		tracking_id: 'UA-45090266-1'
 
+exclude: jekyll-ga.rb
+
 pygments: false
 
 safe:        false
