@@ -8,6 +8,13 @@ title: Stories
 			<div class="span12">
 			<h1>Stories</h1> 
 			</div>
+			<h3>Here is an archive of my work as a reporter.</h3>
+
+
+			{% for category in site.categories %}
+			    {{ category | first }}
+			{% endfor %}
+
 				<ul class= "unstyled">
 				{% for post in site.categories.featured %}
 					<li class="bars">
