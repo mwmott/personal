@@ -6,9 +6,10 @@ title: Stories
 	<div class="container main-content-container">
 		<div class="row">	
 			<div class="span12">
-			<h1>Stories</h1><h5 style="display:inline">An archive of my work as a reporter.</h5>
+			<h1>Stories</h1><span><h5>An archive of my work as a reporter.</h5></span>
 			</div>
 		</div>
+
 		<div class="row">
 			<div class="span4">
 				<h4>City on a Hill Press</h4>
@@ -24,6 +25,10 @@ title: Stories
 				  {% endfor %}
 				</ul>
 			</div>
+		</div>
+
+		<hr style="padding: 10px"/>
+
 		<div class="row">
 			<div class="span4">
 				<h4>Columbia University</h4>
@@ -37,10 +42,13 @@ title: Stories
 					         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
 					    </li>
 					  {% endfor %}
-					</ul>
+				</ul>
 			</div>
 		</div>
-		<div class="row"
+
+		<hr style="padding: 10px"/>
+
+		<div class="row">
 			<div class="span4">
 				<h4>Additional Work</h4>
 				<p>Pieces from around the web and other places I've written for.</p>
