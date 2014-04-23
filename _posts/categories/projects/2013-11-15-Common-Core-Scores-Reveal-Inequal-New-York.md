@@ -23,21 +23,19 @@ Here's the big look at the city as a whole. l34p shows the score range (in passi
 #####Across the five boroughs#####
 
 <div>
-<p>Manhattan has much cooler colors generally, with smaller schools.</p><img src="{{ base.url }}/assets/img/post/core3.jpg" alt="NYC Common Core-Manhattan" style="float:right"/>
+<span>Manhattan has much cooler colors generally, with smaller schools.</span><span><img src="{{ base.url }}/assets/img/post/core3.jpg" alt="NYC Common Core-Manhattan" style="float:right" width="400"></span>
 </div>
+
 <hr />
 <div>
-<p>When we get out to Brooklyn and the other outer boroughts, the dots tend to get larger and warmer, indicated lower test scores in larger schools.</p><img src="{{ base.url }}/assets/img/post/core4.jpg" alt="NYC Common Core-Brooklyn" style="float:right"/>
+<span>When we get out to Brooklyn and the other outer boroughts, the dots tend to get larger and warmer, indicated lower test scores in larger schools.</span><span><img src="{{ base.url }}/assets/img/post/core4.jpg" alt="NYC Common Core-Brooklyn" style="float:right"/></span>
 </div>
+
 <hr />
-<div>
-<p>Queens is mostly in the ~25% zone, except for Jackson Heights and Elmhurst. This might indicate a future lead to follow-up on later for an education story.</p><img src="{{ base.url }}/assets/img/post/core5.jpg" alt="NYC Common Core-Queens" style="float:right"/>
-</div>
+Queens is mostly in the ~25% zone, except for Jackson Heights and Elmhurst. This might indicate a future lead to follow-up on later for an education story.<img src="{{ base.url }}/assets/img/post/core5.jpg" alt="NYC Common Core-Queens" style="float:right"/>
+
 <hr />
-<div>
-<p>Staten Island has fewer schools, with those there being larger than the average.</p><img src="{{ base.url }}/assets/img/post/core6.jpg" alt="NYC Common Core-Staten Island" style="float:right"/>
-</div>
+Staten Island has fewer schools, with those there being larger than the average.<img src="{{ base.url }}/assets/img/post/core6.jpg" alt="NYC Common Core-Staten Island" style="float:right"/>
+
 <hr />
-<div>
-<p>And finally the Bronx, which shows a larger diversity in test scores trending toward the lower.</p><img src="{{ base.url }}/assets/img/post/core7.jpg" alt="NYC Common Core-Bronx" style="float:right"/>
-</div>
+And finally the Bronx, which shows a larger diversity in test scores trending toward the lower.<img src="{{ base.url }}/assets/img/post/core7.jpg" alt="NYC Common Core-Bronx" style="float:right"/>
