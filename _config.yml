@@ -10,7 +10,7 @@ permalink: /:categories/:title
 
 analytics:
 	provider: google
-		tracking_id: UA-45090266-1
+		tracking_id: 'UA-45090266-1'
 
 pygments: false
 
