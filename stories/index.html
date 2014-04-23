@@ -16,13 +16,13 @@ title: Stories
 				<p>Reporting done at the <a href="http://www.cityonahillpress.com">student-run weekly newspaper</a> at the University of California, Santa Cruz.</p>
 			</div>
 			<div class="span8"
-				<ul class="unstyled">
-				{% for post in site.tags.CHP limit: 10 %}
-				    <li>
-				         <a href="{{ post.url }}">{{ post.title }}</a>
-				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
-				    </li>
-				  {% endfor %}
+				<ul class="unstyled" style="float:right">
+					{% for post in site.tags.CHP limit: 10 %}
+					    <li>
+					         <a href="{{ post.url }}">{{ post.title }}</a>
+					         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+					    </li>
+					  {% endfor %}
 				</ul>
 			</div>
 		</div>
@@ -35,7 +35,7 @@ title: Stories
 				<p>Stories from my time spent studying at New York's Columbia University Graduate School of Journalism.</p>
 			</div>
 			<div class="span8">
-				<ul class="unstyled">
+				<ul class="unstyled" style="float:right">
 					{% for post in site.tags.columbia limit: 10 %}
 					    <li>
 					         <a href="{{ post.url }}">{{ post.title }}</a>
@@ -55,9 +55,9 @@ title: Stories
 			</div>
 			<div class="span8">
 				{% for post in site.tags.other limit: 10 %}
-				  <ul class="unstyled">
+				  <ul class="unstyled" style="float:right">
 				    <li>
-				    	<a href="http://gokicker.com/author/michael-mott/">Kicker</a><p>: Here I wrote explanatory journalism on the top news of the day for hte New York-based site.</p>
+				    	<a href="http://gokicker.com/author/michael-mott/">Kicker</a><p>: Here I wrote explanatory journalism on the top news of the day for the New York-based site.</p>
 				    </li>
 				  {% endfor %}
 				</ul>
