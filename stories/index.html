@@ -16,14 +16,16 @@ title: Stories
 				<h4>City on a Hill Press</h4>
 				<p>Reporting done at the <a href="http://www.cityonahillpress.com">student-run weekly newspaper</a> at the University of California, Santa Cruz.</p>
 			</div>
-			<div class="span8">
-				<ul class="unstyled" style="float:right">
-					{% for post in site.tags.CHP limit: 10 %}
-					    <li>
-					         <a href="{{ post.url }}">{{ post.title }}</a>
-					    </li>
-					  {% endfor %}
-				</ul>
+			<div class="span2">
+				<div class="span6">
+					<ul class="unstyled">
+						{% for post in site.tags.CHP limit: 10 %}
+						    <li>
+						         <a href="{{ post.url }}">{{ post.title }}</a>
+						    </li>
+						  {% endfor %}
+					</ul>
+				</div>
 			</div>
 		</div>
 		<hr style="padding: 10px"/>
@@ -32,14 +34,16 @@ title: Stories
 				<h4>Columbia University</h4>
 				<p>Stories from my time spent studying at New York's Columbia University Graduate School of Journalism.</p>
 			</div>
-			<div class="span8">
-				<ul class="unstyled" style="float:right">
-					{% for post in site.tags.columbia limit: 10 %}
-					    <li>
-					         <a href="{{ post.url }}">{{ post.title }}</a>
-					    </li>
-					  {% endfor %}
-				</ul>
+			<div class="span2">
+				<div class="span6">
+					<ul class="unstyled">
+						{% for post in site.tags.columbia limit: 10 %}
+						    <li>
+						         <a href="{{ post.url }}">{{ post.title }}</a>
+						    </li>
+						  {% endfor %}
+					</ul>
+				</div>
 			</div>
 		</div>
 		<hr style="padding: 10px"/>
