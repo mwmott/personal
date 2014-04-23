@@ -185,6 +185,10 @@ img {
     max-width: 100%;
 }
 
+img.self{
+    max-width: 50%;
+}
+
 a {
 	color: #00ACED;
 	}
