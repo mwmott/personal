@@ -8,10 +8,17 @@ url: "mwmott.github.io"
 markdown: redcarpet
 permalink: /:categories/:title
 
-analytics:
-	provider: google
-		tracking_id: 'UA-45090266-1'
-
+jekyll_ga:
+  service_account_email:    754523168464@developer.gserviceaccount.com
+  key_file: f0e4032aa4552a88f8395232675ffcdef5e24e81-privatekey.p12
+  key_secret: notasecret   
+  profileID: 78205423
+  start: last month         
+  end: now               
+  metric: ga:pageviews    
+  segment:                 
+  filters:                 
+  sort: false   
 exclude: jekyll-ga.rb
 
 pygments: false
