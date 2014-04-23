@@ -6,7 +6,8 @@ title: Stories
 	<div class="container main-content-container">
 		<div class="row">	
 			<div class="span12">
-			<h1>Stories</h1><span><h5>An archive of my work as a reporter.</h5></span>
+			<h1>Stories</h1>
+			<h5>An archive of my work as a reporter.</h5>
 			</div>
 		</div>
 
@@ -15,7 +16,7 @@ title: Stories
 				<h4>City on a Hill Press</h4>
 				<p>Reporting done at the <a href="http://www.cityonahillpress.com">student-run weekly newspaper</a> at the University of California, Santa Cruz.</p>
 			</div>
-			<div class="span8"
+			<div class="span8">
 				<ul class="unstyled" style="float:right">
 					{% for post in site.tags.CHP limit: 10 %}
 					    <li>
@@ -26,9 +27,7 @@ title: Stories
 				</ul>
 			</div>
 		</div>
-
 		<hr style="padding: 10px"/>
-
 		<div class="row">
 			<div class="span4">
 				<h4>Columbia University</h4>
@@ -45,21 +44,17 @@ title: Stories
 				</ul>
 			</div>
 		</div>
-
 		<hr style="padding: 10px"/>
-
 		<div class="row">
 			<div class="span4">
 				<h4>Additional Work</h4>
 				<p>Pieces from around the web and other places I've written for.</p>
 			</div>
 			<div class="span8">
-				{% for post in site.tags.other limit: 10 %}
 				  <ul class="unstyled" style="float:right">
 				    <li>
-				    	<a href="http://gokicker.com/author/michael-mott/">Kicker</a><p>: Here I wrote explanatory journalism on the top news of the day for the New York-based site.</p>
+				    	<p><a href="http://gokicker.com/author/michael-mott/">Kicker</a></p><p>: Here I wrote explanatory journalism on the top news of the day for the New York-based site.</p>
 				    </li>
-				  {% endfor %}
 				</ul>
 			</div>
 		</div>
