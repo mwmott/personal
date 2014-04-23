@@ -3,6 +3,7 @@ layout: project
 title:  A Congressional 'Drone' Search
 date:   2013-11-25 00:10:20
 categories: projects featured
+tag: project
 author: Michael Mott
 ---
 

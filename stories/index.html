@@ -7,7 +7,7 @@ title: Stories
 		<div class="row">	
 			<div class="span12">
 			<h1>Stories</h1> 
-			<h2>An archive of my work as a reporter.</h2>
+			<h4>An archive of my work as a reporter.</h4>
 			</div>
 		</div>
 		<div class="row">
@@ -30,12 +30,12 @@ title: Stories
 				<h4>Columbia University</h4>
 				<p>Stories from my time spent studying at New York's Columbia University Graduate School of Journalism.</p>
 				{% for post in site.tags.columbia limit: 10 %}
-				  <div class="unstyled">
+				  <ul class="unstyled">
 				    <li>
 				         <a href="{{ post.url }}">{{ post.title }}</a>
 				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
 				    </li>
-				    </div>
+				    </ul>
 				  {% endfor %}
 				</ul>
 			</div>
@@ -44,12 +44,11 @@ title: Stories
 				<h4>Additional Work</h4>
 				<p>Pieces from around the web and other places I've written for.</p>
 				{% for post in site.tags.other limit: 10 %}
-				  <div class="post_info">
+				  <ul class="post_info">
 				    <li>
-				         <a href="{{ post.url }}">{{ post.title }}</a>
-				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+				    	<a href="http://gokicker.com/author/michael-mott/">Kicker</a><p>: Here I wrote explanatory journalism on the top news of the day for hte New York-based site.</p>
 				    </li>
-				    </div>
+				    </ul>
 				  {% endfor %}
 				</ul>
 			</div>
