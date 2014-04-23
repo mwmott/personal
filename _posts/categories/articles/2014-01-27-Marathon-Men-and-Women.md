@@ -4,6 +4,7 @@ title:  Marathon Men and Women
 date:   2014-01-27 00:10:20
 categories: articles featured
 author: Michael Mott
+tags: columbia
 publication: <a href="http://theuptownchronicle.com/?page_id=5763">The Uptown Chronicle</a>
 ---
 

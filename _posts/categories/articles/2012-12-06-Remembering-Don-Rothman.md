@@ -4,6 +4,7 @@ title:  Remembering Don Rothman
 date:   2012-12-06 00:10:20
 categories: articles featured
 author: Michael Mott
+tags: CHP
 publication: <a href="http://www.cityonahillpress.com/2012/12/06/remembering-don-rothman/">City on a Hill Press</a>
 subtitle: “We write to avoid the humiliation of silence in the face of cruelty and injustice.” 
 

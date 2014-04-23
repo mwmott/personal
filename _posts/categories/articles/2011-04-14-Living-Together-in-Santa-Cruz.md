@@ -4,6 +4,7 @@ title:  Living Together in Santa Cruz
 subtitle: A peek into co-op life 
 date:   2011-04-14 00:10:20
 categories: articles featured
+tags: CHP
 author: Michael Mott
 publication: <a href="http://www.cityonahillpress.com/2011/04/14/living-together-in-santa-cruz/">City on a Hill Press</a>
 ---

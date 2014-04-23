@@ -3,6 +3,7 @@ layout: post
 title:  A Ticking Time Bomb
 date:   2011-11-10 00:10:20
 categories: articles featured
+tags: CHP
 author: Michael Mott
 publication: <a href="http://www.cityonahillpress.com/2011/11/10/a-ticking-time-bomb/">City on a Hill Press</a>
 subtitle: With the effects of a long recession comes anxiety about future job prospects for students

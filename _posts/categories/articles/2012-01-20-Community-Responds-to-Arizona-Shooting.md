@@ -4,6 +4,7 @@ title:  Community Responds to Arizona Shooting
 date:   2012-01-20 00:10:20
 categories: articles featured
 author: Michael Mott
+tags: CHP
 publication: <a href="http://www.cityonahillpress.com/2011/01/20/community-responds-to-arizona-shooting/">City on a Hill Press</a>
 
 ---

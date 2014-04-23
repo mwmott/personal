@@ -8,16 +8,53 @@ title: Stories
 			<div class="span12">
 			<h1>Stories</h1> 
 			</div>
-			<h3>Here is an archive of my work as a reporter.</h3>
-
-
-			{% for category in site.categories %}
-			    {{ category | first }}
-			{% endfor %}
-
+		</div>
+		<div class="row">
+			<h4>City on a Hill Press</h4>
+			<p>Reporting done at the student-run weekly newspaper at the University of California, Santa Cruz.</p>
+			<div class="span4">
+				<ul class="posts">
+				{% for post in site.tags.CHP limit: 10 %}
+				  <div class="post_info">
+				    <li>
+				         <a href="{{ post.url }}">{{ post.title }}</a>
+				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+				    </li>
+				    </div>
+				  {% endfor %}
+				</ul>
+			<div class="span4">
+				<h4>Columbia University</h4>
+				<p>Stories from my classes and time spent studying in New York's Columbia University Graduate School of Journalism.</p>
+				<ul class="posts">
+				{% for post in site.tags.columbia limit: 10 %}
+				  <div class="post_info">
+				    <li>
+				         <a href="{{ post.url }}">{{ post.title }}</a>
+				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+				    </li>
+				    </div>
+				  {% endfor %}
+				</ul>
+			<div class="span4">
+				<h4>Additional Work</h4>
+				<p>Pieces from around the web and other places I've written for.</p>
+				<ul class="posts">
+				{% for post in site.tags.other limit: 10 %}
+				  <div class="post_info">
+				    <li>
+				         <a href="{{ post.url }}">{{ post.title }}</a>
+				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+				    </li>
+				    </div>
+				  {% endfor %}
+				</ul>
+			</div>
+		<div class="row">	
+			<div class="span12">
 				<ul class= "unstyled">
 				{% for post in site.categories.featured %}
-					<li class="bars">
+					<li>
 						<a class="list" href="{{ post.url }}">{{ post.title }}</a>
 					</li>
 				{% endfor %}

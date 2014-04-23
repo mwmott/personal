@@ -3,6 +3,7 @@ layout: post
 title:  Colors Ebb and Flow
 date:   2011-05-05 00:10:20
 categories: articles
+tags: CHP
 author: Michael Mott
 publication: <a href="http://www.cityonahillpress.com/2011/05/05/colors-ebb-and-flow/">City on a Hill Press</a>
 subtitle: Womyn of Color Conferences draws delegates from across the state
