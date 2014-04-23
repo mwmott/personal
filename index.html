@@ -21,16 +21,14 @@ title: Home
 		<div class="span12">
 		<h4>Featured articles</h4> 
 		</div>
-		<div class="span12">
-			<div id="columns" class="span5">
-				<ul class= "unstyled">
-				{% for post in site.categories.featured %}
-					<li class="bars">
-						<a class="list" href="{{ post.url }}">{{ post.title }}</a>
-					</li>
-				{% endfor %}
-				</ul>
-			</div>
+		<div class="span11" id="columns">
+			<ul class= "unstyled">
+			{% for post in site.categories.featured %}
+				<li class="bars">
+					<a class="list" href="{{ post.url }}">{{ post.title }}</a>
+				</li>
+			{% endfor %}
+			</ul>
 		</div>
 	</div>
 	<hr width="60%" />
