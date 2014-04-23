@@ -20,14 +20,15 @@ Matt Collette gets the bulk of the credit for going through this work initially 
 
 Here's the big look at the city as a whole. l34p shows the score range (in passing percentage), and the size of the dot indicates how many of the tests were taken. 
 
-#####Across the five boroughs#####
+####Mapping across the five boroughs####
 
-<div>
+<div class="row"
 <span>Manhattan has much cooler colors generally, with smaller schools.</span><span><img src="{{ base.url }}/assets/img/post/core3.jpg" alt="NYC Common Core-Manhattan" style="float:right" width="400"></span>
 </div>
 
 <hr />
-<div>
+
+<div class="row">
 <span>When we get out to Brooklyn and the other outer boroughts, the dots tend to get larger and warmer, indicated lower test scores in larger schools.</span><span><img src="{{ base.url }}/assets/img/post/core4.jpg" alt="NYC Common Core-Brooklyn" style="float:right"/></span>
 </div>
 
