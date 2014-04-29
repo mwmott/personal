@@ -12,17 +12,25 @@ title: Projects
 			</div>
 		</div>
 		<div class="row">
-			<div class="span4">
-				<h5 align="right">Columbia data class</h5>
+			<div class="span2">
+				<h4 style="vertical-align:middle" align="right">Data</h4>
 			</div>
-		</div>
-		<div class="row">
-			<div class="span4">
-				<p align="right">Projects from a course taught by <a class="list" href="http://www.stat.ucla.edu/~cocteau/">Mark Hansen</a>.</p>
+			<div class="span5">
+				<h5>Columbia data class</h5>
+				<p align="middle">Projects from a course taught by <a class="list" href="http://www.stat.ucla.edu/~cocteau/">Mark Hansen</a>.</p>
+				<ul class="unstyled">
+				{% for post in site.tags.project %}
+				  <div class="post_info">
+				    <li>
+				         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
+				    </li>
+				    </div>
+				  {% endfor %}
+				</ul>
 			</div>
-			<div class="span1">
-			</div>
-			<div class="span6">
+			<div class="span5">
+				<h5>J-School Data 2014</h5>
+				<p align="middle">Small projects done collaboratively off-hours at Columbia.</p>
 				<ul class="unstyled">
 				{% for post in site.tags.project %}
 				  <div class="post_info">
@@ -34,19 +42,13 @@ title: Projects
 				</ul>
 			</div>
 		</div>
-		<hr style="padding: 10px"/>
 		<div class="row">
-			<div class="span4">
-				<h5 align="right">J-School Data 2014</h5>
+			<div class="span2">
+				<h4 style="vertical-align:middle" align="right">Web Design</h4>
 			</div>
-		</div>
-		<div class="row">
-			<div class="span4">
-				<p align="right">Small projects done collaboratively off-hours at Columbia.</p>
-			</div>
-			<div class="span1">
-			</div>
-			<div class="span6">
+			<div class="span5">
+				<h5>Interaction Design</h5>
+				<p align="middle">Websites produced in a course taught by <a class="list" href="http://www.tysonevans.com/">Tyson Evans</a> and <a class="list" href="http://joshmkeller.com/">Josh Keller</a>.</p>
 				<ul class="unstyled">
 				{% for post in site.tags.project %}
 				  <div class="post_info">
@@ -56,21 +58,12 @@ title: Projects
 				    </div>
 				  {% endfor %}
 				</ul>
+				<!--Travel
+				Block-->
 			</div>
-		</div>
-		<hr style="padding: 10px"/>
-			<div class="row">
-			<div class="span4">
-				<h5 align="justify">Interaction Design</h5>
-			</div>
-		</div>
-		<div class="row">
-			<div class="span4">
-				<p align="justify">Websites produced in a course taught by <a class="list" href="http://www.tysonevans.com/">Tyson Evans</a> and <a class="list" href="http://joshmkeller.com/">Josh Keller</a>.</p>
-			</div>
-			<div class="span1">
-			</div>
-			<div class="span6">
+			<div class="span5">
+				<h5>Personal projects</h5>
+				<p align="middle">Work done for friends, small parts of stories, etc.</p>
 				<ul class="unstyled">
 				{% for post in site.tags.project %}
 				  <div class="post_info">
@@ -80,30 +73,9 @@ title: Projects
 				    </div>
 				  {% endfor %}
 				</ul>
+				<!--Maya
+				This site-->
 			</div>
 		</div>
-		<hr style="padding: 10px"/>
-						<div class="row">
-			<div class="span4">
-				<h5 align="justify">Personal projects</h5>
-			</div>
-		</div>
-		<div class="row">
-			<div class="span4">
-				<p align="justify">Work done for friends, small parts of stories, etc.</p>
-			</div>
-			<div class="span1">
-			</div>
-			<div class="span6">
-				<ul class="unstyled">
-				{% for post in site.tags.project %}
-				  <div class="post_info">
-				    <li>
-				         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
-				    </li>
-				    </div>
-				  {% endfor %}
-				</ul>
-			</div>
-		</div>
-		<hr style="padding: 10px"/>
+	</div>
+</section>
