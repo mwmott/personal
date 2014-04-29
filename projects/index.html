@@ -6,7 +6,7 @@ title: Stories
 <section class="content">
 	<div class="container main-content-container">
 		<div class="row">	
-			<div class="span12">
+			<div class="span6">
 			<h1>Projects</h1> 
 			<h4>An archive of my work in data, web design and the intersection of tech and journalism.</h4>
 			</div>
@@ -17,7 +17,7 @@ title: Stories
 				{% for post in site.tags.project limit: 10 %}
 				  <div class="post_info">
 				    <li>
-				         <a href="{{ post.url }}">{{ post.title }}</a>
+				         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
 				         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
 				    </li>
 				    </div>

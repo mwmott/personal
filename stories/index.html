@@ -20,9 +20,9 @@ title: Stories
 			</div>
 			<div class="span6">
 				<ul class="unstyled">
-					{% for post in site.tags.CHP limit: 10 %}
+					{% for post in site.tags.CHP %}
 					    <li>
-					         <a href="{{ post.url }}">{{ post.title }}</a>
+					         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
 					    </li>
 					  {% endfor %}
 				</ul>
@@ -40,7 +40,7 @@ title: Stories
 				<ul class="unstyled">
 					{% for post in site.tags.columbia limit: 10 %}
 					    <li>
-					         <a href="{{ post.url }}">{{ post.title }}</a>
+					         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
 					    </li>
 					  {% endfor %}
 				</ul>
@@ -57,8 +57,10 @@ title: Stories
 			<div class="span6">
 				<ul class="unstyled" style="float:right">
 				    <li>
-				    	<p><a href="http://gokicker.com/author/michael-mott/">Kicker</a>: Here I wrote explanatory journalism on the top news of the day for the New York-based site.</p>
+				    	<p><a class="list" href="http://gokicker.com/author/michael-mott/">Kicker</a>: Here I wrote explanatory journalism on the top news of the day for the New York-based site.</p>
 				    </li>
+				    <li>
+				    	<p><a class="list" href="http:"
 				</ul>
 			</div>
 		</div>
