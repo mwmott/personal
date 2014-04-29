@@ -37,7 +37,7 @@ title: Stories
 			</div>
 			<div class="span6">
 				<ul class="unstyled">
-					{% for post in site.tags.columbia limit: 10 %}
+					{% for post in site.tags.columbia %}
 					    <li>
 					         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
 					    </li>
