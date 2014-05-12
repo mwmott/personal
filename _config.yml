@@ -5,7 +5,7 @@ author_email: michaelwarrenmott@gmail.com
 baseurl: /personal
 url: "mwmott.github.io"
 
-markdown: redcarpet
+markdown: Kramdown
 permalink: /:categories/:title
 
 jekyll_ga:
