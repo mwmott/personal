@@ -2,8 +2,8 @@ name: Michael Mott
 description: This is the Personal Website of Michael Warren Mott.
 author: Michael Mott
 author_email: michaelwarrenmott@gmail.com
-baseurl: /personal
-url: "mwmott.github.io"
+baseurl: ""
+url: "http://localhost:4000"
 
 markdown: Kramdown
 permalink: /:categories/:title
