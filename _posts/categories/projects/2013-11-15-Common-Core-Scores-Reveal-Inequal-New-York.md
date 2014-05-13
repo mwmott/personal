@@ -5,6 +5,7 @@ date:   2013-11-25 00:10:20
 categories: projects
 tag: project team
 author: Michael Mott
+picture: <img src="/assets/img/thumbs/map.jpg" alt="NYC Common Core Scores" width="300">
 ---
 
 After being exposed to the rising field of data journalism at Columbia, a group of students and I started practicing basic data techniques. While a lot of our time was doing shoe-leather reporting in our beats (mine was in the South Bronx), we were usually gathered together around a dataset on late Sunday or Monday nights.
