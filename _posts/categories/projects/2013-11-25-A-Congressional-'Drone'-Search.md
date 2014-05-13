@@ -2,9 +2,10 @@
 layout: project
 title:  A Congressional 'Drone' Search
 date:   2013-11-25 00:10:20
-categories: projects featured
-tag: project dataclass
+categories: projects featured dataclass
+tag: dataclass
 author: Michael Mott
+picture: <img src="/assets/img/thumbs/rep.jpg" alt="NYC Common Core Scores" width="300">
 ---
 
 Our data class (taught by the wonderful <a href="http://www.stat.ucla.edu/~cocteau/">Mark Hansen</a>) at Columbia's School of Journalism was given an opportunity last November reporters traditionally haven't: “Find something interesting in this data.” 

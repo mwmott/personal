@@ -8,7 +8,7 @@ title: Projects
 		<div class="row">	
 			<div class="span4">
 			<h1>Projects</h1> 
-			<h5>My work in data and web design at the intersection of tech and journalism.</h5>
+			<p>My work in data and web design at the intersection of tech and journalism.</p>
 			</div>
 		</div>
 		<br />
@@ -16,10 +16,10 @@ title: Projects
 		<div class="row">
 		  	<div class="span2">
 			  	<ul class="nav nav-tabs nav-stacked">
-			  		<li class="active"><a href="#all" data-toggle="tab">All</a></li>
-			  		<li><a href="#data"data-toggle="tab">Data</a></li>
-			  		<li><a href="#web-design"data-toggle="tab">Web Design</a></li>
-			  		<li><a href="#photography" data-toggle="tab">Photography</a></li>	
+			  		<li class="active"><a style="color:black" href="#all" data-toggle="tab">All</a></li>
+			  		<li><a style="color:black" href="#data"data-toggle="tab">Data</a></li>
+			  		<li><a style="color:black" href="#web-design"data-toggle="tab">Web Design</a></li>
+			  		<li><a style="color:black" href="#photography" data-toggle="tab">Photography</a></li>	
 			  	</ul>
 			</div>
 
@@ -32,13 +32,15 @@ title: Projects
 							<h4 align="middle">Columbia Data Class</h4>
 							<p style="font-size: 14px" align="middle">Projects from a course taught by <a class="list" style="font-size: 14px" href="http://www.stat.ucla.edu/~cocteau/">Mark Hansen</a>.</p>
 							<ul style="padding-bottom: 20px" class="unstyled">
-							{% for post in site.categories.projects %}
+							{% for post in site.categories.dataclass %}
 							  <div class="post_info">
 							    <li align="middle">
-							    	{% if post.picture %}
-							    	    <div>{{ post.picture }}</div>
-							    	{% endif %}
-							         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
+							        <a class="list" href="{{ post.url }}">	
+							         	<div>{{ post.title }}</div>
+							         	{% if post.picture %}
+							    	    	<div class="darken">{{ post.picture }}</div>
+							    		{% endif %}
+							    	</a>
 							    </li>
 							    </div>
 							  {% endfor %}
@@ -48,13 +50,18 @@ title: Projects
 							<h4 align="middle">J-School Data 2014</h4>
 							<p style="font-size: 14px" align="middle">Projects done collaboratively off-hours at Columbia.</p>
 							<ul style="padding-bottom: 20px" class="unstyled">
-							{% for post in site.tags.team %}
-							  <div class="post_info">
-							    <li>
-							         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
-							    </li>
-							    </div>
-							  {% endfor %}
+								{% for post in site.categories.datapersonal %}
+								  <div class="post_info">
+								    <li align="middle">
+								        <a class="list" href="{{ post.url }}">	
+								         	<div>{{ post.title }}</div>
+								         	{% if post.picture %}
+								    	    	<div class="darken">{{ post.picture }}</div>
+								    		{% endif %}
+								    	</a>
+								    </li>
+								    </div>
+								  {% endfor %}
 							</ul>
 						</div>
 					</div>
@@ -63,26 +70,35 @@ title: Projects
 							<h4 align="middle">Interaction Design</h4>
 							<p style="font-size: 14px" align="middle">Websites built in a course by <a class="list" style="font-size: 14px" href="http://www.tysonevans.com/">Tyson Evans</a> and <a style="font-size: 14px" class="list" href="http://joshmkeller.com/">Josh Keller</a>.</p>
 							<ul style="padding-bottom: 20px" class="unstyled">
-							{% for post in site.tags.webclass %}
-							  <div class="post_info">
-							    <li>
-							         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
-							    </li>
-							    </div>
-							  {% endfor %}
+								{% for post in site.categories.webclass %}
+								  <div class="post_info">
+								    <li align="middle">
+								        <a class="list" href="{{ post.url }}">	
+								         	<div>{{ post.title }}</div>
+								         	{% if post.picture %}
+								    	    	<div class="darken">{{ post.picture }}</div>
+								    		{% endif %}
+								    	</a>
+								    </li>
+								    </div>
+								  {% endfor %}
 							</ul>
 						</div>
 						<div class="span5">
 							<h4 align="middle">Personal Projects</h4>
 							<p style="font-size: 14px" align="middle">Work done for friends, small parts of stories, etc.</p>
-							<ul style="padding-bottom: 20px" class="unstyled">
-							{% for post in site.tags.personal %}
-							  <div class="post_info">
-							    <li>
-							         <a class="list" href="{{ post.url }}">{{ post.title }}</a>
-							    </li>
-							    </div>
-							  {% endfor %}
+								{% for post in site.categories.webpersonal %}
+								  <div class="post_info">
+								    <li align="middle">
+								        <a class="list" href="{{ post.url }}">	
+								         	<div>{{ post.title }}</div>
+								         	{% if post.picture %}
+								    	    	<div class="darken">{{ post.picture }}</div>
+								    		{% endif %}
+								    	</a>
+								    </li>
+								    </div>
+								  {% endfor %}
 							</ul>
 						</div>
 					</div>
@@ -98,4 +114,21 @@ title: Projects
 	}).get();
 
 	$("p.all").html(all.join());
+
+	$(document).ready(function () {  
+	  var top = $('#yourID').offset().top - parseFloat($('#yourID').css('marginTop').replace(/auto/, 100));
+	  $(window).scroll(function (event) {
+	    // what the y position of the scroll is
+	    var y = $(this).scrollTop();
+
+	    // whether that's below the form
+	    if (y >= top) {
+	      // if so, ad the fixed class
+	      $('#menu').addClass('fixed');
+	    } else {
+	      // otherwise remove it
+	      $('#yourID').removeClass('fixed');
+	    }
+	  });
+	});
 </script>

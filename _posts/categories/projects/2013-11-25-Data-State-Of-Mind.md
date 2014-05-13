@@ -1,11 +1,11 @@
 ---
 layout: project
-title:  Data State of Mind
+title:  A Data State of Mind
 date:   2013-11-25 00:10:20
-categories: projects
-tag: project team
+categories: projects datapersonal
+tag: datapersonal
 author: Michael Mott
-picture: <img src="/assets/img/thumbs/map.jpg" alt="NYC Common Core Scores" width="300">
+picture: <img src="/assets/img/post/temp.jpg" alt="NYC Weather" width="300">
 ---
 
 I was working on a long-form project at Columbia's School of Journalism, when I realized: Learning how to explore data gives another tool to satisfy journalists' curiosity.
@@ -16,7 +16,7 @@ The story attracted me because whoever you are in New York, you need heat and sh
 
 I Googled first of course. Then I found the great [wunderground.com](http://www.wunderground.com/):
 
-![weather](assets/img/post/weather.jpg)
+![weather](/assets/img/post/weather.jpg)
 
 Wunderground has a great open weather search, where I specified dates. They even have a nice .csv link at the bottom of the page here.
 
@@ -45,7 +45,7 @@ ggplot(aes(x=EST, y=Mean.TemperatureF), data=weather) + geom_point() + geom_smoo
 
 The code reveals:
 
-![Temp](assets/img/post/temp.jpg)
+![Temp](/assets/img/post/temp.jpg)
 
 From this graph we can figure out weather the temperature on the day of conversion from was high or low — in this case relatively low. This day was at the start of winter, and that led to my lede:
 

@@ -1,9 +1,9 @@
 ---
 layout: project
-title:  Common Core Scores Reveal Inequal New York
+title:  Common Core Scores Show an Inequal New York
 date:   2013-11-25 00:10:20
-categories: projects
-tag: project team
+categories: projects datapersonal
+tag: dataclass
 author: Michael Mott
 picture: <img src="/assets/img/thumbs/map.jpg" alt="NYC Common Core Scores" width="300">
 ---
