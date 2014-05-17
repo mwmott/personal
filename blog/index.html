@@ -18,10 +18,15 @@ title: Blog
 					  <div class="post_info">
 					    <li align="middle">
 					        <a class="list" href="{{ post.url }}">	
-					         	<div>{{ post.title }}</div>
+					         	<div>
+					         		<h5>{{ post.title }}</h5>
+					         	</div>
 					         	{% if post.picture %}
 					    	    	<div class="darken">{{ post.picture }}</div>
 					    		{% endif %}
+					         	{% if post.description %}
+					    	    	<div>{{ post.description }}</div>
+					    		{% endif %}		
 					    	</a>
 					    </li>
 					    </div>

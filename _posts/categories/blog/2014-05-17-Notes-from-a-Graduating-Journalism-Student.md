@@ -5,6 +5,7 @@ date:   2014-05-17 00:07:56
 categories: blog
 author: Michael Mott
 picture: <img src="/assets/img/thumbs/map.jpg" alt="NYC Common Core Scores" width="300">
+description: Thoughts and musings on the Saturday before my graduation from Columbia's School of Journalism. Warning: Sap ahead.
 ---
 
 It was an early, cool morning in the Bronx when I got the email from my professor, Sandy (don't you dare call him that) Padwe. My piece on the 22-year old court case with an angle from the judge's perspective had been due the night before. But, I needed photos. Could you get them today?
