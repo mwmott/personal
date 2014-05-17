@@ -1,0 +1,36 @@
+---
+layout: default
+title: Blog
+---
+<section class="content">
+	<div class="container main-content-container">
+		<div class="row">	
+			<div class="span12">
+			<h1>Blog</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span4">
+			</div>
+				<div class="span4">
+					<ul style="padding-bottom: 20px" class="unstyled">
+					{% for post in site.categories.blog %}
+					  <div class="post_info">
+					    <li align="middle">
+					        <a class="list" href="{{ post.url }}">	
+					         	<div>{{ post.title }}</div>
+					         	{% if post.picture %}
+					    	    	<div class="darken">{{ post.picture }}</div>
+					    		{% endif %}
+					    	</a>
+					    </li>
+					    </div>
+					  {% endfor %}
+					</ul>
+				</div>
+			</div>
+			<div class="span4">
+			</div>
+		</div>
+	</div>
+</section>

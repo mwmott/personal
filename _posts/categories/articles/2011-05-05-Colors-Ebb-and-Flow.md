@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  Colors Ebb and Flow
 date:   2011-05-05 00:10:20
 categories: articles

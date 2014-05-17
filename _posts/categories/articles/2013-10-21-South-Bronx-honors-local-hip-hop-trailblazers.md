@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  South Bronx Honors Local Hip Hop Trailblazers
 date:   2013-10-21 00:10:20
 categories: articles featured

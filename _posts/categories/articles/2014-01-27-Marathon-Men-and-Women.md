@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  Marathon Men and Women
 date:   2014-01-27 00:10:20
 categories: articles featured

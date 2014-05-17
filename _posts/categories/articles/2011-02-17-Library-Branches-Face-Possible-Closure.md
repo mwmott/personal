@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  4 Library Branches Face Possible Closure
 date:   2011-02-17 00:10:20
 categories: articles

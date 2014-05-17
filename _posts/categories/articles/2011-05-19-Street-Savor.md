@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  Street Savor
 date:   2011-05-19 00:10:20
 categories: articles featured

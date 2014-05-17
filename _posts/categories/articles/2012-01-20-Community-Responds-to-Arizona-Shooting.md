@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  Community Responds to Arizona Shooting
 date:   2012-01-20 00:10:20
 categories: articles featured

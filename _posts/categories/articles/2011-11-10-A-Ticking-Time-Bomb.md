@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title:  A Ticking Time Bomb
 date:   2011-11-10 00:10:20
 categories: articles featured
