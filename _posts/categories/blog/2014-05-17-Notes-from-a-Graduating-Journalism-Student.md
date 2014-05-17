@@ -9,11 +9,11 @@ description: Thoughts and musings on the Saturday before my graduation from Colu
 ---
 
 <img src="/assets/img/thumbs/ameja.jpg" alt="NYC Common Core Scores" class="span12">
-<em>Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</em>
+<p class="caption">Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</p>
 
-It was an early, cool morning in the Bronx when I got the email from my professor, Sandy (don't you dare call him that) Padwe. My piece on the 22-year old court case with an angle from the judge's perspective had been due the night before. But, I needed photos. Could you get them today?
+It was an early, cool morning in the Bronx when I got the email from my professor. Professor Padwe had asked for photos for a story of mine which had been due the night before. "Get those pictures of the judges," he said.
 
-Of course, I said. I freaked. I called the clerks and administrative aides I'd become friendly with at the Bronx County Supreme Court from my bedroom in Morningside Heights and begged them to let me come take the judges' picture. They'd try to help, they said, and would get back to me.
+I freaked. I called the clerks and administrative aides I'd become friendly with at the Bronx County Supreme Court from my bedroom in Morningside Heights and begged them to let me come take the judges' picture. They'd try to help, they said, and would get back to me.
 
 With a camera out of battery and no charger — murphy's law — I decided to run to Harlem to find something. I put on my running shoes and sped up Amsterdam, jumped down Morningside Park and found a working unit. I'd only had a few hours sleep with my third revision to Padwe the night before — it was just one of those days.
 
