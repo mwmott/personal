@@ -9,7 +9,7 @@ description: Thoughts and musings on the Saturday before my graduation from Colu
 ---
 
 <img src="/assets/img/thumbs/ameja.jpg" alt="NYC Common Core Scores" class="span12">
-<div class="caption">Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</div>
+<p class="caption">Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</p>
 
 It was an early, cool morning in the Bronx when I got the email from my professor. Professor Padwe had asked for photos for a story of mine which had been due the night before. "Get those pictures of the judges," he said.
 
