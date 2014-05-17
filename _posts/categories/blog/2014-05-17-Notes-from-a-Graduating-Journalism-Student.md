@@ -30,7 +30,7 @@ If you're reading this and aren't in the j-school community, here's a few things
 	<li>women in journalism</li>
 	<li>free aj staff</li>
 	<li>My interaction design class did some of my favorite online projects, ever.</li>
-	<li>See plenty more of our work curated on <a href="http://www.columbiajournalist.org/">The Columbia Journalist</a>.
+	<li>See plenty more of our work curated on <a href="http://www.columbiajournalist.org/">The Columbia Journalist</a>.</li>
 </ul>
 </strong>
 
