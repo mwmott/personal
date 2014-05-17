@@ -1,6 +1,6 @@
 .caption{
       font-size: 10px;
-      font-style: italic;
+      font-style: italics;
 }
 
 @media (min-width: 979px) {
@@ -142,7 +142,7 @@ height:20px;
 .list2{
     padding-bottom: 3px;
     padding-left: 2px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Droid Serif', "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     color: black;
 }
@@ -150,7 +150,7 @@ height:20px;
 .list{
     padding-bottom: 3px;
     padding-left: 4px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Droid Serif', "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     margin-bottom: 8px;
     margin-left: -1px;
@@ -206,7 +206,7 @@ header.main{
 body {
     margin: 0;
     font-size: 16px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Droid Serif', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
     line-height: 1.35em;
     background-color: #E7E7E7;
