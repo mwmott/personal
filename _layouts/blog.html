@@ -13,12 +13,14 @@ layout: default
 					
 				    <div class="image__container">
 				        <div class="entry-header-heading">
-				            <h1>{{ page.title }}</h1>
+				            <h2>{{ page.title }}</h2>
 				                <p class="meta">
 				                    {% if page.author %}
 				                        <span class="author">By {{ page.author }} &middot;</span>
 				                    {% endif %}
-				                    <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date: "%B %-d, %Y" }}</time>
+				                    <span class="author">
+				                    	<time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date: "%B %-d, %Y" }}</time>
+				                    </span>
 				                </p>
 				        </div>
 				    </div>
@@ -51,10 +53,10 @@ layout: default
 <br />
 <section class="content">
 	<div class="container main-content-container">
-		<div class="row" style="border: 1px; -moz-border-radius: 15px; border-radius: 15px;">
+		<div class="row" style="border-width: 1px; border-style:dotted; -moz-border-radius: 15px; border-radius: 15px;">
 			<div class="span1">
 			</div>
-			<div class="span9">
+			<div style="padding-left: 10px" class="span9">
 				<img src="{{ base.url }}/assets/img/me2.jpg" alt="Mike Mott" width="150" style="float:left">
 				<span style:"padding-left:15px"><p>Michael Mott is a recent graduate of Columbia University's Graduate School of Journalism who believes in the necessity of journalism for the possibility of democracy. He is currently working at <em>The Seattle Times</em> as an intern in data and news apps. See more of his work <a href="http://www.mikemott.com/">here</a>.</p></span>
 			</div>
