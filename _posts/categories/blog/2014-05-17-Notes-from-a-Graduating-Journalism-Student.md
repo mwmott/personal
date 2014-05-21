@@ -9,17 +9,18 @@ description: Thoughts and musings on the Saturday before my graduation from Colu
 ---
 
 <img src="/assets/img/thumbs/ameja.jpg" alt="NYC Common Core Scores" class="span12">
-<p class="caption">Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</p>
 
-It was an early, cool morning in the Bronx when I got the email from my professor. Professor Padwe had asked for photos for a story of mine which had been due the night before. "Get those pictures of the judges," he said.
+<div class="caption">Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</div>
 
-I freaked. I called the clerks and administrative aides I'd become friendly with at the Bronx County Supreme Court from my bedroom in Morningside Heights and begged them to let me come take the judges' picture. They'd try to help, they said, and would get back to me.
+It was an early, cool morning in the Bronx when I got the email from my professor. Padwe was asking for photos for a story of mine which had been due the night before. "Get those pictures of the judges," he said.
 
-With a camera out of battery and no charger — murphy's law — I decided to run to Harlem to find something. I put on my running shoes and sped up Amsterdam, jumped down Morningside Park and found a working unit. I'd only had a few hours sleep with my third revision to Padwe the night before — it was just one of those days.
+I freaked. Calling the clerks I'd become friendly with immediately at the Bronx County Supreme Court, I begged to let me come take a picture or two. They said they'd try to help.
 
-Of course, I got the photos, after getting a call from Monique and Beth on my way to Harlem that the judges could do it in an hour. Charged my camera at home for what little time I had and ran back to 125th and Saint Nicholas Ave. to grab the B train. The judges were kind, and I promised after taking their photos tha tI would send them my piece.
+With an out-of-battery camera and no charger, I ran — literally, ran — to Harlem to find one. After lacing up my running shoes and speeding up Amsterdam and Morningside Park, I eventually found a unit. I had only a few hours sleep the night before — but it was just one of those days.
 
-To the journalism students reading this, I'm sure some of this might sound familiar. If our years have anything alike, you've seen last-minute calls, deadline moments saved largely by the generosity of others and our instinct to go that last, extremely necessary step.
+I got the photos. After getting a call from Monique and Beth on my way to Harlem, I learned the judges could do it in an hour. The short story is I charged my camera at home, ran to 125th and St. Nick Ave. to grab the B train and got the shots. The judges were kind; I promised I would send them my piece once it was all done.
+
+To any journalism students reading this, I'm sure this might sound familiar. If our years have been anything alike, you've seen last-minute calls and deadline moments, most saved largely by the generosity of others and our instinct to go that last, necessary step.
 
 But we did it. Despite all the sleepless nights, frantic emailing, desperate calls like the above, we did it. To all the journalism students reading, congratulations, sincerely. You made the deadlines, wrote the words, spoke with strangers. You convinced people to take time out of their New York lives to talk to you. One word I'd like to describe what I'm most proud of all you: your hustle. You inspired me.
 
