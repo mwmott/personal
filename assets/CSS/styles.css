@@ -1,7 +1,7 @@
 
 
 .caption{
-      font-size: 10px;
+      font-size: 12px;
       font-style: italics;
 }
 
@@ -271,7 +271,7 @@ img {
 }
 
 img.self{
-    max-width: 80%;
+    max-width: 92%;
 }
 
 a {

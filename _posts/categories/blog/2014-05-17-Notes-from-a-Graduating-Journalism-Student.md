@@ -4,13 +4,12 @@ title:  Notes from a Graduating Journalism Student
 date:   2014-05-17 00:07:56
 categories: blog
 author: Michael Mott
-picture: <img src="/assets/img/thumbs/ameja.jpg" alt="NYC Common Core Scores" width="500">
+picture: <img src="/assets/img/thumbs/ameja.jpg" alt="AMEJA meeting of j-school students." width="500">
 description: Thoughts and musings on the Saturday before my graduation from Columbia's School of Journalism. Warning — Sap ahead.
+caption: Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.
 ---
 
 <img src="/assets/img/thumbs/ameja.jpg" alt="NYC Common Core Scores" class="span12">
-
-<div class="caption">Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.</div>
 
 It was an early, cool morning in the Bronx when I got the email from my professor. Padwe was asking for photos for a story of mine which had been due the night before. "Get those pictures of the judges," he said.
 

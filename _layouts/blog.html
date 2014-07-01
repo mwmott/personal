@@ -4,33 +4,9 @@ layout: default
 
 <section class="content">
 	<div class="container main-content-container">
-		<div class="row">
-			<div class="span1">
-			</div>
-			<div class="span9">
-				{% if page.image.feature %}
-				<div align="middle" style="background-image: url('{{ site.url }}/assets/img/{{ page.image.feature }}')">
-					
-				    <div class="image__container">
-				        <div class="entry-header-heading">
-				            <h2>{{ page.title }}</h2>
-				                <p class="meta">
-				                    {% if page.author %}
-				                        <span class="author">By {{ page.author }} &middot;</span>
-				                    {% endif %}
-				                    <span class="author">
-				                    	<time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">{{ page.date | date: "%B %-d, %Y" }}</time>
-				                    </span>
-				                </p>
-				        </div>
-				    </div>
-				{% if page.image.credit %}
-				<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- image-credit -->
-				{% endif %}
-				    </div><!-- entry-image -->
-				{% else %}
-				<div class="text__container">
-				    <h2>{{ page.title }}</h2>
+		<div class="span9">
+			<div class="text__container">
+			    <h3>{{ page.title }}</h3>
 				    {% if page.subtitle %}
 	                    <span style="font-size:18px"><em>{{ page.subtitle }}</em></span>
 	                {% endif %}
@@ -41,12 +17,19 @@ layout: default
 				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%B %d, %Y" }}</time>
 				    </p>
 				</div>
-				{% endif %}
-				{{ content }}
-			</div>
-			<div class="span2">
-			</div>
+				
+			{% if page.picture %}
+			    <div class="image__container">
+			    	<div align="middle" style="background-image: url('{{ site.url }}/assets/img/{{ page.picture }}')">
+					<p class="caption" href="{{ page.caption }}">{{ page.image.credit }}</p>
+			    </div>
+			{% endif %}
+
+			{{ content }}
 		</div>
+		<div class="span2">
+		</div>
+	</div>
 	</div>
 </section>
 <br />
