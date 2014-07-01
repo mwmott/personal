@@ -15,7 +15,7 @@ layout: default
 				        {% if page.author %}
 				            <span class="author">By <a href="http://mikemott.com/archive/">{{ page.author }}</a></span>
 				        {% endif %}
-				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%B %d, %Y" }}</time>
+				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">, published on {{ page.date | date: "%B %d, %Y" }}</time>
 				    </p>
 				</div>
 				{% if page.picture %}
