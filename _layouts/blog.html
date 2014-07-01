@@ -12,14 +12,14 @@ layout: default
 	                {% endif %}
 				    <p class="meta">
 				        {% if page.author %}
-				            <span class="author"><a href="http://mikemott.com/archive/">By {{ page.author }} &middot;</a></span>
+				            <span class="author">By <a href="http://mikemott.com/archive/">{{ page.author }}</a></span>
 				        {% endif %}
 				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%B %d, %Y" }}</time>
 				    </p>
 				</div>
 
 			{% if page.picture %}
-			    <div>
+			    <div style="padding-bottom: 50px">
 			    	<div align="middle">{{ page.picture }}
 					<a class="caption" href="{{ page.caption }}">{{ page.image.credit }}</a>
 			    </div>
