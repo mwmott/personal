@@ -9,8 +9,6 @@ description: Thoughts and musings on the Saturday before my graduation from Colu
 caption: Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.
 ---
 
-<img src="/assets/img/thumbs/ameja.jpg" alt="NYC Common Core Scores" class="span12">
-
 It was an early, cool morning in the Bronx when I got the email from my professor. Padwe was asking for photos for a story of mine which had been due the night before. "Get those pictures of the judges," he said.
 
 I freaked. Calling the clerks I'd become friendly with immediately at the Bronx County Supreme Court, I begged to let me come take a picture or two. They said they'd try to help.
