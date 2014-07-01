@@ -54,4 +54,5 @@ We are forerunners for the next generation of journalism. And I couldn't be prou
 
 And that's what gives me hope. The fact that so many of us — and many other j-school grads as well — came here and decided it was worth our time, money, hearts and souls — that tells me that this profession has a future. Nothing can fail with so much heart and soul.  
 All my love, and good luck out there.
+
 Mike
