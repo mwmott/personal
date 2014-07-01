@@ -20,8 +20,8 @@ layout: default
 
 			{% if page.picture %}
 			    <div class="image__container">
-			    	<div align="middle" style="background-image: url('{{ site.url }}/assets/img/{{ page.picture }}')">
-					<p class="caption" href="{{ page.caption }}">{{ page.image.credit }}</p>
+			    	<div align="middle">{{ site.url }}/assets/img/{{ page.picture }}
+					<a class="caption" href="{{ page.caption }}">{{ page.image.credit }}</a>
 			    </div>
 			{% endif %}
 
