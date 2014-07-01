@@ -17,34 +17,19 @@ layout: default
 				        <time class="pubdate updated" datetime="{{ page.date }}" itemprop="dateCreated">Published on {{ page.date | date: "%B %d, %Y" }}</time>
 				    </p>
 				</div>
-
 			{% if page.picture %}
-			    <div style="padding-bottom: 50px">
+			    <div>
 			    	<div align="middle">{{ page.picture }}
 					<a class="caption" href="{{ page.caption }}">{{ page.image.credit }}</a>
 			    </div>
 			{% endif %}
-
+			<br />
+			<br />
 			{{ content }}
 		</div>
 		<div class="span2">
 		</div>
 	</div>
-	</div>
 </section>
-<br />
-<br />
-<section class="content">
-	<div class="container main-content-container">
-		<div class="row" style="border-width: 1px; border-style:dotted; -moz-border-radius: 15px; border-radius: 15px;">
-			<div class="span1">
-			</div>
-			<div style="padding-left: 10px" class="span9">
-				<img src="{{ base.url }}/assets/img/me2.jpg" alt="Mike Mott" width="150" style="float:left">
-				<span style:"padding-left:15px"><p>Michael Mott is a recent graduate of Columbia University's Graduate School of Journalism who believes in the necessity of journalism for the possibility of democracy. He is currently working at <em>The Seattle Times</em> as an intern in data and news apps. See more of his work <a href="http://www.mikemott.com/">here</a>.</p></span>
-			</div>
-			<div class="span2">
-			</div>
-		</div>
-	</div>
-</section>
+
+{% include bio.html %}
