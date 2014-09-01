@@ -12,7 +12,7 @@ picture: <img src="/assets/img/post/octo.jpg" alt="Amazon in Europe" width="300"
 
 During the last half of my internship at <span style="font-style: italic;">The Seattle Times</span>, I had the great opportunity to produce a graphic which would connect three business stories in a series.
 
-Working with illustrator Susan Jouflas, I produced the following interactive, learning how to use CSS and jQuery animations and connect images to videos. Click on one of the country-icons to see an animated video on how European countries are confronting Amazon.
+Working with illustrator Susan Jouflas, I produced the following interactive, learning how to use CSS and jQuery animations and how to connect images to videos along the way. Click one of the country-icons to see an animated video on how European countries are confronting Amazon.
 
 <div id="pym-amazon"></div>
 <script src="/assets/code/amazon-in-europe/lib/pym.js"></script>
@@ -21,7 +21,7 @@ Working with illustrator Susan Jouflas, I produced the following interactive, le
 </script>
 
 <div class="span4">
-  Each of these stories had to have a slightly different graphic, so I learned how to use LESS and CSS child classes to create a different version for each story. All that was required to change was a # with the name of the country for each story appended to the end of the URL (i.e. '#england' or '#germany', as shown).
+  Each of these stories had to have a slightly different graphic, so I also learned to use LESS and CSS child classes to make different versions for each story. For the producers, all that was needed to be changed was a # with the name of the country  appended to the URL (e.g. '#england' or '#germany', as seen here).
 </div>
 
   ![Country-icons](/assets/img/post/england.jpg)
