@@ -11,7 +11,9 @@ picture: <img src="/assets/img/thumbs/site.jpg" alt="Portfolio ite" width="300">
 ---
 
 <div id="pym-amazon"></div>
-<script src="/assets/code/Amazon-in-Europe/lib/pym.js"></script>
+<script src="/assets/code/Amazon-in-Europe/build/lib/pym.js"></script>
 <script>
-    var pymParent = new pym.Parent('pym-amazon', '/assets/code/Amazon-in-Europe/index.html#england', {});
+    var pymParent = new pym.Parent('pym-amazon', '/assets/code/Amazon-in-Europe/build/index.html#england', {});
 </script>
+
+Test test test
