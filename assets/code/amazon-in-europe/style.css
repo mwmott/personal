@@ -1,0 +1,424 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#map-container {
+  display: block;
+  position: relative;
+  max-width: 960px;
+  width: 100%;
+}
+#map-container .map-bg {
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  z-index: 1;
+}
+.cf::before,
+.cf::after {
+  content: " ";
+  display: table;
+}
+.cf::after {
+  clear: both;
+}
+.country-icon {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.play {
+  display: inline-block;
+  position: absolute;
+  z-index: -1;
+}
+.banner {
+  top: 4%;
+  z-index: 100;
+  position: absolute;
+  display: block;
+  max-width: 69%;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.banner-text {
+  top: 6%;
+  z-index: 100;
+  position: absolute;
+  display: block;
+  max-width: 33%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-botom: 0;
+}
+.glow-on {
+  position: absolute;
+  z-index: 9;
+  display: none;
+  opacity: 0.7;
+  width: 30%;
+}
+.eng-word-big {
+  display: none;
+}
+.fra-word-big {
+  display: none;
+}
+.ger-word-big {
+  display: none;
+}
+.page-england .glow-on {
+  display: block;
+  top: 18%;
+  left: 26%;
+  opacity: 0.4;
+  width: 30%;
+}
+.page-england .eng-word-big {
+  display: block;
+  left: 3%;
+  top: 98%;
+  max-width: 60%;
+  position: absolute;
+}
+.page-england .fra-word-big {
+  display: none;
+}
+.page-england .ger-word-big {
+  display: none;
+}
+.page-france .glow-on {
+  display: block;
+  top: 45%;
+  left: 38%;
+  opacity: .4;
+  width: 37%;
+}
+.page-france .fra-word-big {
+  display: block;
+  top: 99%;
+  left: -12%;
+  max-width: 70%;
+  position: absolute;
+}
+.page-france .eng-word-big {
+  display: none;
+}
+.page-france .ger-word-big {
+  display: none;
+}
+.page-germany .glow-on {
+  display: block;
+  top: 25%;
+  left: 64%;
+  opacity: .5;
+  width: 30%;
+}
+.page-germany .ger-word-big {
+  display: block;
+  top: 102%;
+  left: 4%;
+  max-width: 56%;
+  position: absolute;
+}
+.page-germany .eng-word-big {
+  display: none;
+}
+.page-germany .fra-word-big {
+  display: none;
+}
+.flip {
+  transition: -webkit-transform 0.5s ease-out;
+  transition: transform 0.5s ease-out;
+  -webkit-transform-origin: bottom;
+  -ms-transform-origin: bottom;
+  transform-origin: bottom;
+  -webkit-transform: perspective(1000px) rotateX(-5deg);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: perspective(1000px) rotateX(-5deg);
+  transform: perspective(1000px) rotateX(-5deg);
+}
+.startup .flip {
+  -webkit-transform: perspective(1000px) rotateX(90deg);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: perspective(1000px) rotateX(90deg);
+  transform: perspective(1000px) rotateX(90deg);
+}
+.england {
+  position: absolute;
+  cursor: pointer;
+  z-index: 100;
+  left: 34.5%;
+  top: 14%;
+  max-width: 17%;
+}
+.england :hover {
+  -webkit-transform: scale(1.05, 1.1);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: scale(1.05, 1.1);
+  transform: scale(1.05, 1.1);
+  -webkit-transform-origin: bottom;
+  transform-origin: bottom;
+  transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+}
+.eng-word-small {
+  left: 3%;
+  top: 98%;
+  max-width: 60%;
+  position: absolute;
+}
+.page-england .eng-word-small {
+  display: none;
+}
+.eng-play {
+  top: 60%;
+  left: 67.75%;
+  display: inline-block;
+  -webkit-transform: translate(0%, 0%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: translate(0%, 0%);
+  transform: translate(0%, 0%);
+  transition: transform 0.5s ease-in-out;
+  max-width: 15%;
+}
+.eng-red {
+  left: 67.78%;
+  top: 101.25%;
+  max-width: 15%;
+  z-index: 0;
+  opacity: 0;
+}
+#eng-drop {
+  -webkit-transform: translate(0%, 342.5%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: translate(0%, 342.5%);
+  transform: translate(0%, 342.5%);
+  transition: transform 0.5s ease-in-out;
+}
+.eng-arm {
+  max-width: 30%;
+  position: absolute;
+  z-index: 10;
+  display: block;
+  top: 20%;
+  left: -2%;
+  -webkit-transform: rotate(-5deg) translate(0%, 0%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(-5deg) translate(0%, 0%);
+  transform: rotate(-5deg) translate(0%, 0%);
+  transition: -webkit-transform 0.7s ease-in-out;
+  transition: transform 0.7s ease-in-out;
+}
+.pointer-eng {
+  -webkit-transform: rotate(0deg) translate(3%, -4%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(0deg) translate(3%, -4%);
+  transform: rotate(0deg) translate(3%, -4%);
+}
+.pointer-rotate-eng {
+  -webkit-transform: rotate(27deg) translate(25%, -23%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(27deg) translate(25%, -23%);
+  transform: rotate(27deg) translate(25%, -23%);
+}
+.pointer-page-eng {
+  -webkit-transform: rotate(20deg) translate(17%, -15%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(20deg) translate(17%, -15%);
+  transform: rotate(20deg) translate(17%, -15%);
+}
+.france {
+  position: absolute;
+  cursor: pointer;
+  z-index: 100;
+  max-width: 16%;
+  top: 50%;
+  left: 52%;
+}
+.france :hover {
+  -webkit-transform: scale(1.05, 1.1);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: scale(1.05, 1.1);
+  transform: scale(1.05, 1.1);
+  transform-origin: bottom;
+  -webkit-transform-origin: bottom;
+  transition: -webkit-transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out;
+}
+.fra-word-small {
+  top: 99%;
+  left: -12%;
+  max-width: 70%;
+  position: absolute;
+}
+.page-france .fra-word-small {
+  display: none;
+}
+.fra-play {
+  top: 42%;
+  left: 62%;
+  max-width: 19%;
+  position: absolute;
+}
+.fra-red {
+  left: 62%;
+  top: 103.6%;
+  max-width: 19%;
+  z-index: 0;
+  opacity: 0;
+}
+#fra-drop {
+  -webkit-transform: translate(0%, 425%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: translate(0%, 425%);
+  transform: translate(0%, 425%);
+  transition: -webkit-transform 0.8s ease-in-out;
+  transition: transform 0.8s ease-in-out;
+}
+.fra-arm {
+  max-width: 29%;
+  position: absolute;
+  z-index: 10;
+  display: block;
+  top: 52%;
+  left: 8%;
+  -webkit-transform: rotate(16deg) translate(0%, 0%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(16deg) translate(0%, 0%);
+  transform: rotate(16deg) translate(0%, 0%);
+  transition: -webkit-transform 0.65s ease-in-out;
+  transition: transform 0.65s ease-in-out;
+}
+.fra .fra-arm {
+  display: block;
+}
+.pointer-fra {
+  -webkit-transform: rotate(20deg) translate(-1%, -3%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(20deg) translate(-1%, -3%);
+  transform: rotate(20deg) translate(-1%, -3%);
+}
+.pointer-rotate-fra {
+  -webkit-transform: rotate(0deg) translate(26%, 26%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(0deg) translate(26%, 26%);
+  transform: rotate(0deg) translate(26%, 26%);
+}
+.pointer-page-fra {
+  -webkit-transform: rotate(5deg) translate(18%, 18%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(5deg) translate(18%, 18%);
+  transform: rotate(5deg) translate(18%, 18%);
+}
+.germany {
+  position: absolute;
+  cursor: pointer;
+  z-index: 100;
+  max-width: 21%;
+  top: 27%;
+  left: 71%;
+}
+.germany :hover {
+  -webkit-transform: scale(1.1, 1.2);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: scale(1.1, 1.2);
+  transform: scale(1.1, 1.2);
+  -webkit-transform-origin: bottom;
+  transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+}
+.ger-play {
+  top: 42%;
+  left: 62%;
+  max-width: 14%;
+}
+.ger-red {
+  left: 62%;
+  top: 111.5%;
+  max-width: 14%;
+  z-index: 0;
+  opacity: 0;
+}
+.ger-word-small {
+  top: 102%;
+  left: 4%;
+  max-width: 56%;
+  position: absolute;
+}
+.page-germany .ger-word-small {
+  display: none;
+}
+#ger-drop {
+  -webkit-transform: translate(0%, 330%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: translate(0%, 330%);
+  transform: translate(0%, 330%);
+  transition: transform 0.8s ease-in-out;
+}
+.ger-arm {
+  max-width: 40%;
+  position: absolute;
+  z-index: 10;
+  display: block;
+  top: 52%;
+  left: 7%;
+  -webkit-transform: rotate(0deg) translate(0%, 0%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(0deg) translate(0%, 0%);
+  transform: rotate(0deg) translate(0%, 0%);
+  transition: -webkit-transform 0.65s ease-in-out;
+  transition: transform 0.65s ease-in-out;
+}
+.ger .ger-arm {
+  display: block;
+}
+.pointer-ger {
+  -webkit-transform: rotate(-4deg) translate(0%, 0%);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(-4deg) translate(0%, 0%);
+  transform: rotate(-4deg) translate(0%, 0%);
+}
+.pointer-rotate-ger {
+  -webkit-transform: rotate(6deg) translate(30%, -40%) scale(1.1, 1.1);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(6deg) translate(30%, -40%) scale(1.1, 1.1);
+  transform: rotate(6deg) translate(30%, -40%) scale(1.1, 1.1);
+}
+.pointer-page-ger {
+  -webkit-transform: rotate(4deg) translate(20%, -30%) scale(1, 1);
+  -webkit-backface-visibility: hidden;
+  -ms-transform: rotate(4deg) translate(20%, -30%) scale(1, 1);
+  transform: rotate(4deg) translate(20%, -30%) scale(1, 1);
+}
+.octo-body {
+  position: absolute;
+  max-width: 21%;
+  top: 42%;
+  left: 2%;
+  display: block;
+  z-index: 50;
+}
+#outer-container {
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  z-index: 1000;
+}
+#bc-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.video {
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  overflow: hidden;
+}
