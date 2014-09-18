@@ -13,7 +13,7 @@ When my internship started at <em>The Seattle Times</em>, I was able to meet var
 
 With help from <a href="http://thomaswilburn.net/">Thomas Wilburn</a>, I made this interactive chart to accompany Katherine's <a href="http://seattletimes.com/html/localnews/2023980122_careercollegesxml.html">story</a> on the subject. Using <a href="https://angularjs.org/">AngularJS</a>, it allowed readers to sort schools by institution type and other factors to see which had the breakdown on student-default rates and types of aid.
 
-From the article - "<b>To use this chart:</b> Click on a bar to see detailed loan and grant information for each institution. You can also sort by college, city, type and default rate by clicking the column headers. You may also search or filter by college type at the top." I owe a lot to Thomas for helping me with this, my first project at <em>The Seattle Times</em>. <a href="http://seattletimes.com/html/localpages/2023892102_ceo-pay-2014.html">His</a> chart was a great reference.
+I owe a lot to Thomas for helping me with this, as my first project at <em>The Seattle Times</em>. <a href="http://seattletimes.com/html/localpages/2023892102_ceo-pay-2014.html">His</a> chart was a great reference.
 
 <div id="pym-student-aid"></div>
 <script src="/assets/code/student-aid/pym.js"></script>
