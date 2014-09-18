@@ -1,0 +1,252 @@
+[ng-cloak] {
+  display: none;
+}
+.filters {
+  font-family: arial, sans-serif;
+  padding: 16px 0;
+  font-size: 13px;
+}
+.filters .pill {
+  display: inline-block;
+  vertical-align: middle;
+}
+.filters i {
+  display: inline-block;
+  vertical-align: middle;
+}
+.filters input[type=radio] {
+  display: none;
+}
+.filters input[type=radio]:checked + label {
+  background: #000000;
+  color: #ffffff;
+  border-color: #7e838b;
+}
+.filters label {
+  display: block;
+  float: left;
+  padding: 4px 8px;
+  outline: 1px solid #7e838b;
+  background: #ffffff;
+  color: #7e838b;
+  cursor: pointer;
+  margin: 0;
+}
+.student-aid {
+  width: 630px;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  border-collapse: collapse;
+}
+.student-aid * {
+  box-sizing: border-box;
+}
+.student-aid .pay {
+  display: block;
+  float: left;
+  height: 1em;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.student-aid .cash {
+  background: #0b486b;
+}
+.student-aid .equity {
+  background: #79bd9a;
+}
+.student-aid .other {
+  background: #b7d462;
+}
+.student-aid tr {
+  background: white;
+}
+.student-aid tr:nth-child(2n) {
+  background: #f7f7f7;
+}
+.student-aid th {
+  border-bottom: 1px solid #cfd0d3;
+  font-weight: normal;
+  text-align: left;
+  padding: 4px 8px;
+  background: #ffffff;
+  color: #000000;
+  font-size: 16px;
+}
+.student-aid th[ng-click] {
+  cursor: pointer;
+}
+.student-aid th.sort {
+  cursor: pointer;
+}
+.student-aid th.sorted::after {
+  content: "\25BC";
+}
+.student-aid th.sorted.up::after {
+  content: "\25B2";
+}
+.student-aid td {
+  vertical-align: middle;
+  padding: 4px 8px;
+}
+.student-aid input.trick {
+  display: none;
+}
+.student-aid input.trick:checked + label {
+  padding-bottom: 100px;
+}
+.student-aid input.trick:checked + label span.pay {
+  overflow: visible;
+}
+.student-aid input.trick:checked + label.short {
+  padding-bottom: 70px;
+}
+.student-aid input.trick:checked + label .when-checked {
+  opacity: 1;
+  height: auto;
+}
+.student-aid label.trick {
+  display: block;
+  transition: padding .2s linear;
+  position: relative;
+  cursor: pointer;
+}
+.student-aid label.trick span.pay {
+  overflow: hidden;
+}
+.student-aid label.trick .when-checked {
+  position: absolute;
+  top: 30px;
+  opacity: 0;
+  height: 0;
+  padding: 5px;
+  transition: opacity .2s linear;
+  background: white;
+  border-width: 2px;
+  border-radius: 2px;
+  border-style: solid;
+  z-index: 99999;
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.1);
+}
+.student-aid label.trick .when-checked .percent {
+  background: #555;
+  color: white;
+  padding: 4px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: inline-block;
+  vertical-align: baseline;
+}
+.student-aid label.trick .when-checked::before {
+  position: absolute;
+  top: -12px;
+  left: 0px;
+  content: "";
+  border-color: transparent transparent #79bd9a #79bd9a;
+  border-width: 6px 4px;
+  border-style: solid;
+  height: 0px;
+  width: 0px;
+}
+.student-aid label.trick .cash .when-checked {
+  right: 0;
+  text-align: right;
+  border-color: #0b486b;
+}
+.student-aid label.trick .cash .when-checked .percent {
+  background: #093854;
+}
+.student-aid label.trick .cash .when-checked .percent1 {
+  background: #364da1;
+  color: white;
+  padding: 4px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: inline-block;
+  vertical-align: baseline;
+}
+.student-aid label.trick .cash .when-checked .percent2 {
+  background: #4e7bc4;
+  color: white;
+  padding: 4px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: inline-block;
+  vertical-align: baseline;
+}
+.student-aid label.trick .cash .when-checked::before {
+  right: 0px;
+  left: auto;
+  border-color: transparent #0b486b #0b486b transparent;
+}
+.student-aid label.trick .equity .when-checked {
+  border-color: #79bd9a;
+}
+.student-aid label.trick .equity .when-checked .percent {
+  background: #4d9c74;
+}
+.student-aid label.trick .equity.last .when-checked {
+  top: 70px;
+}
+.student-aid label.trick .equity.last .when-checked::before {
+  top: -54px;
+  border-width: 27px 4px;
+}
+.student-aid label.trick .other .when-checked {
+  border-color: #b7d462;
+}
+.student-aid label.trick .other .when-checked .percent {
+  background: #748f27;
+}
+.student-aid label.trick .other .when-checked::before {
+  border-color: transparent transparent #b7d462 #b7d462;
+}
+.student-aid label.trick ul {
+  margin: 0;
+  padding: 0;
+}
+.student-aid label.trick ul li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  line-height: 25px;
+}
+.student-aid label.trick ul li b {
+  color: white;
+  padding: 0 4px;
+}
+.student-aid .col-name {
+  font-size: 13px;
+}
+.student-aid .col-type {
+  font-size: 13px;
+}
+.student-aid .col-city {
+  font-size: 13px;
+}
+.student-aid .col-aid {
+  font-size: 13px;
+}
+.student-aid .col-defaults {
+  font-size: 13px;
+}
+.student-aid .col-name2 {
+  font-weight: bold;
+}
+.student-aid .col-type2 {
+  font-style: italic;
+}
+.student-aid .col-aid2 {
+  width: 150px;
+  white-space: nowrap;
+  text-align: left;
+}
+.student-aid .col-defaults2 {
+  color: #CC0000;
+  text-align: right;
+  font-weight: bold;
+}
+.student-aid .col-defaultshead {
+  text-align: right;
+  font-size: 13px;
+}

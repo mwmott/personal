@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  Notes from a Graduating Journalism Student
+title:  Notes from a Graduating Journalist
 date:   2014-05-17 00:07:56
 categories: blog
 author: Michael Mott
