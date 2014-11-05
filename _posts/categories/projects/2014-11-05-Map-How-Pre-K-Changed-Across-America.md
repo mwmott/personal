@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Map: How State-funded Pre-K Changed Across America
+title:  How State-funded Pre-K Changed Across America
 date:   2014-11-05 00:10:20
 categories: projects seattletimes
 tag: seattletimes
@@ -9,9 +9,9 @@ picture: <img src="/assets/img/post/prek.jpg" alt="Pre-K Map" width="300">
 
 ---
 
-At the close of my internship at <em>The Seattle Times</em>, I made this interactive map to complement an <a href="http://blogs.seattletimes.com/educationlab/">Education Lab</a> series on state-funded pre-k education. It shows how state-funded pre-kindergarten funding has changed over the last ten years. <b>To use this map:</b> Hover for state-level data and move the slider to see changes through the years.
+At the close of my internship at <em>The Seattle Times</em>, I made this interactive map to complement an <a href="http://blogs.seattletimes.com/educationlab/">Education Lab</a> series on state-funded pre-k education. 
 
-[CHART GOES HERE]
+<b>To use this map:</b> Hover for state-level data and move the slider to see changes through the years. 
 
 <div id="pym-pre-k"></div>
 <script src="/assets/code/pre-k-map/pym.js"></script>
@@ -19,7 +19,7 @@ At the close of my internship at <em>The Seattle Times</em>, I made this interac
     var pymParent = new pym.Parent('pym-pre-k', '/assets/code/pre-k-map/index.html', {});
 </script>
 
-This project taught me a lot about jQuery and Javascript, along with learning how to create a CSV that the slider can "read".
+It shows how state-funded pre-kindergarten funding has changed over the last ten years. This project taught me a lot about jQuery and Javascript, along with learning how to create a CSV that the slider can "read".
 
 <h2>Source:</h2>
 <br>
