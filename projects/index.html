@@ -14,53 +14,61 @@ title: Projects
 		<br />
 		<br />
 		<div class="row">
-		  	<div id="sidebar" class="span2">
-			  	<ul class="nav nav-tabs nav-stacked">
-			  		<li class="active"><a style="color:black" href="#all" data-toggle="tab">All</a></li>
-			  		<li><a style="color:black" href="#data"data-toggle="tab">Data</a></li>
-			  		<li><a style="color:black" href="#web-design"data-toggle="tab">Web Design</a></li>
-			  		<li><a style="color:black" href="#photography" data-toggle="tab">Photography</a></li>	
-			  	</ul>
+			<!-- Sidebar -->
+
+	  	<div id="sidebar" class="span2">
+		  	<ul class="nav nav-tabs nav-stacked">
+		  		<li class="active"><a style="color:black" href="#all" data-toggle="tab">All</a></li>
+		  		<li><a style="color:black" href="#data"data-toggle="tab">Data</a></li>
+		  		<li><a style="color:black" href="#web-design"data-toggle="tab">Web Design</a></li>
+		  		<li><a style="color:black" href="#photography" data-toggle="tab">Photography</a></li>	
+		  	</ul>
+
+		  <!--Content-->
+
 			</div>
 		  		<div class="tab-content">
 		  			<div class="tab-pane fade in active" id="all">
-						<p class="all"></p>
+							<p class="all"></p>
 		  			</div>
-			  		<div class="tab-pane fade" id="data">  	
-			  		<div class="span5">
-			  			<h4 align="middle">The Seattle Times</h4>
-			  			<p style="font-size: 14px" align="middle">Projects from my time as a summer intern in data / news apps.</p>
-			  			<ul style="padding-bottom: 20px" class="unstyled">
-			  			{% for post in site.categories.seattletimes %}
-			  			  <div class="post_info">
-			  			    <li align="middle">
-			  			        <a class="list" href="{{ post.url }}">	
-			  			         	<div>{{ post.title }}</div>
-			  			         	{% if post.picture %}
-			  			    	    	<div class="darken">{{ post.picture }}</div>
-			  			    		{% endif %}
-			  			    	</a>
-			  			    </li>
-			  			    </div>
-			  			  {% endfor %}
-			  			</ul>
-			  		</div>
+
+<!-- DATA PROJECTS (navigable by sidebar) -->
+
+			  		<div class="tab-pane fade" id="data">  
+				  		<div class="span5">
+				  			<h4 align="middle">The Seattle Times</h4>
+				  			<p style="font-size: 14px" align="middle">Projects from my time as a summer intern in data / news apps.</p>
+				  			<ul style="padding-bottom: 20px" class="unstyled">
+					  			{% for post in site.categories.seattletimes %}
+					  			  <div class="post_info">
+					  			    <li align="middle">
+					  			        <a class="list" href="{{ post.url }}">	
+					  			         	<div>{{ post.title }}</div>
+					  			         	{% if post.picture %}
+					  			    	    	<div class="darken">{{ post.picture }}</div>
+					  			    			{% endif %}
+					  			    	</a>
+					  			    </li>
+					  			  </div>
+					  			{% endfor %}
+				  			</ul>
+				  		</div>
 						<div class="span5">
 							<h4 align="middle">Columbia Data Class</h4>
 							<p style="font-size: 14px" align="middle">Projects from a course taught by <a class="list" style="font-size: 14px" href="http://www.stat.ucla.edu/~cocteau/">Mark Hansen</a>.</p>
 							<ul style="padding-bottom: 20px" class="unstyled">
-							{% for post in site.categories.dataclass %}
-							  <div class="post_info">
-							    <li align="middle">
+								{% for post in site.categories.dataclass %}
+								  <div class="post_info">
+								    <li align="middle">
 							        <a class="list" href="{{ post.url }}">	
 							         	<div>{{ post.title }}</div>
 							         	{% if post.picture %}
 							    	    	<div class="darken">{{ post.picture }}</div>
-							    		{% endif %}
-							    	</a>
-							    </li>
-							    </div>
-							  {% endfor %}
+							    			{% endif %}
+								    	</a>
+								    </li>
+								  </div>
+								{% endfor %}
 							</ul>
 						</div>
 						<div class="span5">
@@ -70,56 +78,66 @@ title: Projects
 								{% for post in site.categories.datapersonal %}
 								  <div class="post_info">
 								    <li align="middle">
-								        <a class="list" href="{{ post.url }}">	
-								         	<div>{{ post.title }}</div>
-								         	{% if post.picture %}
-								    	    	<div class="darken">{{ post.picture }}</div>
+							        <a class="list" href="{{ post.url }}">	
+							         	<div>{{ post.title }}</div>
+							         	{% if post.picture %}
+							    	    	<div class="darken">{{ post.picture }}</div>
 								    		{% endif %}
 								    	</a>
 								    </li>
-								    </div>
-								  {% endfor %}
+								  </div>
+								{% endfor %}
 							</ul>
 						</div>
 					</div>
-		  		  	<div class="tab-pane fade" id="web-design">
-						<div class="span5">
-							<h4 align="middle">Interaction Design</h4>
-							<p style="font-size: 14px" align="middle">Websites built in a course by <a class="list" style="font-size: 14px" href="http://www.tysonevans.com/">Tyson Evans</a> and <a style="font-size: 14px" class="list" href="http://joshmkeller.com/">Josh Keller</a>.</p>
-							<ul style="padding-bottom: 20px" class="unstyled">
-								{% for post in site.categories.webclass %}
-								  <div class="post_info">
-								    <li align="middle">
-								        <a class="list" href="{{ post.url }}">	
-								         	<div>{{ post.title }}</div>
-								         	{% if post.picture %}
-								    	    	<div class="darken">{{ post.picture }}</div>
-								    		{% endif %}
-								    	</a>
-								    </li>
-								    </div>
-								  {% endfor %}
-							</ul>
-						</div>
+
+<!-- WEB DESIGN PROJECTS (navigable by sidebar) -->
+
+		  		<div class="tab-pane fade" id="web-design">
+	  				<div class="span5">
+		  				<h4 align="middle">Interaction Design</h4>
+		  				<p style="font-size: 14px" align="middle">Websites built in a class taught by <a class="list" style="font-size: 14px" href="http://www.tysonevans.com/">Tyson Evans</a> and <a style="font-size: 14px" class="list" href="http://joshmkeller.com/">Josh Keller</a>.</p>
+		  				<ul style="padding-bottom: 20px" class="unstyled">
+		  					{% for post in site.categories.webclass %}
+		  					  <div class="post_info">
+		  					    <li align="middle">
+	  					        <a class="list" href="{{ post.url }}">	
+	  					         	<div>{{ post.title }}</div>
+	  					         	{% if post.picture %}
+	  					    	    	<div class="darken">{{ post.picture }}</div>
+	  					    			{% endif %}
+	  					    		</a>
+		  					    </li>
+		  					  </div>
+		  					{% endfor %}
+		  				</ul>
+		  			</div>
 						<div class="span5">
 							<h4 align="middle">Personal Projects</h4>
 							<p style="font-size: 14px" align="middle">Work done for friends, small parts of stories, etc.</p>
 								{% for post in site.categories.webpersonal %}
+							<ul style="padding-bottom: 20px" class="unstyled">
 								  <div class="post_info">
 								    <li align="middle">
-								        <a class="list" href="{{ post.url }}">	
-								         	<div>{{ post.title }}</div>
-								         	{% if post.picture %}
-								    	    	<div class="darken">{{ post.picture }}</div>
+							        <a class="list" href="{{ post.url }}">	
+							         	<div>{{ post.title }}</div>
+							         	{% if post.picture %}
+							    	    	<div class="darken">{{ post.picture }}</div>
 								    		{% endif %}
 								    	</a>
 								    </li>
-								    </div>
-								  {% endfor %}
+								  </div>
+								{% endfor %}
 							</ul>
 						</div>
 					</div>
-					<div class="span10">
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+			<!-- <div class="span10">
 							<div>
 							<h4 align="middle">Photography</h4>
 							<p style="font-size: 14px" align="middle">Published and favorite personal photos taken with my Canon T3i.</p>
@@ -127,10 +145,7 @@ title: Projects
 			  			<div align="middle" class="tab-pane fade" id="photography">
 			  		  	<iframe src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=62343371@N04&set_id=&text=" frameBorder="0" width="500" height="500" scrolling="no"></iframe><br/><small>Created with <a href="http://www.admarket.se" title="Admarket.se">Admarket's</a> <a href="http://flickrslidr.com" title="flickrSLiDR">flickrSLiDR</a>.</small>
 			  			</div>
-		  			</div>
-		  		</div>
-		</div>
-</section>
+		  			</div> -->
 <script>
 	var all = $(".tab-pane").map(function() {
 	    return this.innerHTML;

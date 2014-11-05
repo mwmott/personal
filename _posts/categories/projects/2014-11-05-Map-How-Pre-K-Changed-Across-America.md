@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  How State Pre-K Changed Across the U.S.
-date:   2014-11-05 00:10:20
+date:   2014-02-02 00:10:20
 categories: projects seattletimes
 tag: seattletimes
 author: Michael Mott
