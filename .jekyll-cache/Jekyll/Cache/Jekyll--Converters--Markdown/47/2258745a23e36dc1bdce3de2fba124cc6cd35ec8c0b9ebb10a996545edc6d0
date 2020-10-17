@@ -1,0 +1,67 @@
+I"e<!-- ---
+layout: blog
+title:  Notes from a Graduating Journalism Student
+date:   2014-05-17 00:07:56
+categories: blog
+author: Michael Mott
+picture: <img src="/assets/img/thumbs/ameja.jpg" alt="AMEJA meeting of j-school students.">
+description: Thoughts and musings on the Saturday before my graduation from Columbia's School of Journalism. Warning — Sap ahead.
+caption: Gathering of Columbia Journalism School students at an AMEJA event. Photo by Damien Spleeters.
+---
+ -->
+
+<p>There’s a lot of confusion in the new world of journalism and coding, I’ve found, about what we do. There’s a lot of job titles, with words ranging from data to interactive, things called ‘news apps’, applied to traditional roles like editor and reporters.</p>
+
+<p>I thought I’d write this post as an introduction to what I see this growing field as. There’s a lot of titles, but they all work toward the same goal, I think: to serve the purpose of journalism in new ways, specifically, with coding.</p>
+
+<p>Why coding? For me, because it opens up new possibility in: communicating information; finding stories; getting readers attention, and more. I think for many in this space at the intersection of coding and journalism, the code is a means to an end. However, after exploring it a bit and building my first projects, I started to enjoy coding in itself.</p>
+
+<p>Let’s break down some of the titles and potential roles for journalists on the web, then.</p>
+
+<ul>
+  <li>
+    <p>Data reporter/editor</p>
+  </li>
+  <li>
+    <p>Interactive Journalist</p>
+  </li>
+  <li>
+    <p>News Apps Developer</p>
+  </li>
+</ul>
+
+<p>Note: these are mash-ups in themselves, and can and often are mixed. There’s a tendency to limit the roles between each other I’ve found, and often they involve similar skills and produce similar work.</p>
+
+<ul>
+  <li>Data reporter/editor:</li>
+</ul>
+
+<p>This person works with data, or, information most often quantified into a numbers form. There are many other forms of data (indeed, the text you are reading is data, as is the sound in your music, etc), however it’s most often referred to spreadsheets of numbers, I’ve found.</p>
+
+<p>The tools: working with data requires the means for working with lots of information - and that includes everything from software to a way of thinking.</p>
+
+<p>Some common tools of data journalism are:</p>
+
+<ul>
+  <li>
+    <p>R:</p>
+  </li>
+  <li>
+    <p>Excel, Access</p>
+  </li>
+  <li>
+    <p>OpenRefine, for cleaning data</p>
+  </li>
+  <li></li>
+</ul>
+
+<p>And the way of thinking bit. This relies on</p>
+
+<p>–</p>
+
+<p>I believe we are at the start of a journalistic revolution, and the leaders you see on Twitter and at NICAR conferences, and the everyday journalists beginning these practices, are forefathers/mothers to what will come next. Entry-level jobs, if all goes well, will require skills in web development, cleaning data and other tasks. It should be part of the job, clearly, with all the new ways journalists can communicate on the web.</p>
+
+<p>Communal education should, also. One of my favorite traditions in the traditional culture of journalism is the passing on of mentorship, from older editors and reporters to the young.</p>
+
+<p>As journalists today, learning these skills ourselves, we have a responsibility to pass it on to the next generation of cub data reporters and journalists. Let’s make sure we can pass that torch on next.</p>
+:ET

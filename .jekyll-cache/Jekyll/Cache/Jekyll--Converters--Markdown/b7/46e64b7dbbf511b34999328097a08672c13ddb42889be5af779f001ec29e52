@@ -1,0 +1,45 @@
+I"y	<p>I was working on a long-form project at Columbia’s School of Journalism, when I realized: Learning how to explore data gives another tool to satisfy journalists’ curiosity.</p>
+
+<p>My story was about how boilers in the city were switching fuels from heavy oil to natural gas and other supposedly cleaner alternatives. My lede began with the day of conversion for one building owner.</p>
+
+<p>The story attracted me because whoever you are in New York, you need heat and shelter. So I began to wonder — what temperature was it that day of conversion?</p>
+
+<p>I Googled first of course. Then I found the great <a href="http://www.wunderground.com/">wunderground.com</a>:</p>
+
+<p><img src="/assets/img/post/weather.jpg" alt="weather" /></p>
+
+<p>Wunderground has a great open weather search, where I specified dates. They even have a nice .csv link at the bottom of the page here.</p>
+
+<p>Looking at this again, I would definitely search longer for a median number — as it’s more statistically accurate than an average — but I thought it came out well anyway:</p>
+
+<pre>
+	#Daily Mean Temperatures of NYC
+weather &lt;- read.csv("~/Documents/Data/masters-temp/weather 9-23 - 1-15.csv")
+#Loading in weather from wunderground.com
+
+load(ggplot2)
+#Package needed for plot
+
+weather$EST &lt;- as.Date(weather$EST)
+#making the factor column a date column to be able to use.
+
+#Plot to illustrate mean temps and to see (for reporting mostly) NYC's
+#temperature when Laura Bruno's conversion was finished and her first
+#shipment of biofuel came.
+
+ggplot(aes(x=EST, y=Mean.TemperatureF), data=weather) + geom_point() + geom_smooth() +
+  geom_vline(x=unclass(as.Date("2013-10-24")), color="red", linetype="dashed", size=1) +
+  ylab("Degrees (Fahrenheit)") +
+  xlab("Time") + ggtitle("Daily Mean Temperatures for NYC's 2013-14 Winter (Indicating at Laura Bruno's Conversion)")
+</pre>
+
+<p>The code reveals:</p>
+
+<p><img src="/assets/img/post/temp.jpg" alt="Temp" /></p>
+
+<p>From this graph we can figure out weather the temperature on the day of conversion from was high or low — in this case relatively low. This day was at the start of winter, and that led to my lede:</p>
+
+<blockquote>
+  <p>Winter was just beginning in New York City when Laura Bruno’s building converted its heating fuel. While the October of 2013 had been mild, temperatures were dropping fast and the 2013-14 heating season had begun.</p>
+</blockquote>
+:ET

@@ -19,7 +19,15 @@ jekyll_ga:
   segment:                 
   filters:                 
   sort: false   
-exclude: jekyll-ga.rb
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item 
 
 pygments: false
 
@@ -27,7 +35,17 @@ safe:        false
 auto:        true
 server:      false
 source:      .
-plugins:     ./_plugins
+plugins_dir: ./_scripts
+
+plugins:
+- jekyll-feed
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
 future:      true
 
 production_url: www.michaelwarrenmott.com

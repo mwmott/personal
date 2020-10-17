@@ -1,0 +1,21 @@
+I"¿<p>During the last half of my internship at <span style="font-style: italic;">The Seattle Times</span>, I had the opportunity to produce a graphic which would connect three business stories in a series.</p>
+
+<p>Working with illustrator Susan Jouflas, I produced the following interactive, learning how to use CSS and jQuery animations and how to connect images to videos along the way. <b>Click one of the country-icons to see an animated video on how European countries are confronting Amazon.</b></p>
+
+<div id="pym-amazon"></div>
+<script src="/assets/code/amazon-in-europe/lib/pym.js"></script>
+
+<script>
+    var pymParent = new pym.Parent('pym-amazon', '/assets/code/amazon-in-europe/index.html', {});
+</script>
+
+<div class="span4">
+  Each of these stories needed a slightly different graphic, so I also learned to use LESS and CSS child classes to make different versions for each story. For the producers, all that was needed to be changed was a # with the name of the country  appended to the URL (e.g. '#england' or '#germany', as seen here).
+</div>
+
+<p><img src="/assets/img/post/england.jpg" alt="Country-icons" />
+  <img src="/assets/img/post/germany.jpg" alt="Country-icons" /></p>
+
+<p><br />
+<br /></p>
+:ET
