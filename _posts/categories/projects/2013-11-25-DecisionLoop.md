@@ -10,7 +10,7 @@ picture: <img src="/assets/img/thumbs/flinto.jpg" alt="Travel site" width="300">
 
 ---
 
-In my first-ever work in web design, I helped my friend [Maya Wagoner](http://mayawagon.com/) build the HTML for the app below.
+In my first-ever work in web design, I helped my friend [Maya Wagoner](https://mayawagon.com/) build the HTML for the app below.
 
 DecisionLoop's goal is to better bridge citizens with their government. By following events and topics in policy, along with providing venues for contacting elected representatives, DecisionLoop aims to help democracy better serve its people.
 

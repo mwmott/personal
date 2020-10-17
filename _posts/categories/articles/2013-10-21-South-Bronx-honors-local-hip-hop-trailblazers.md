@@ -5,7 +5,7 @@ date:   2013-10-21 00:10:20
 categories: articles featured
 author: Michael Mott and Annie Waldman
 tags: columbia
-publication: <a href="http://columbiajournalist.org/www/514-audio-south-bronx-honors-local-hip-hop-trailblazers/story">The Columbia Journalist</a>
+publication: <a href="https://columbiajournalist.org/www/514-audio-south-bronx-honors-local-hip-hop-trailblazers/story">The Columbia Journalist</a>
 ---
 
 ![Casita]({{ base.url }}/assets/img/post/casita.jpg)

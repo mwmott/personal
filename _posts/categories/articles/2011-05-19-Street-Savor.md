@@ -5,7 +5,7 @@ date:   2011-05-19 00:10:20
 categories: articles featured
 tags: CHP
 author: Michael Mott
-publication: <a href="http://www.cityonahillpress.com/2011/05/19/street-savor/">City on a Hill Press</a>
+publication: <a href="https://www.cityonahillpress.com/2011/05/19/street-savor/">City on a Hill Press</a>
 
 ---
 

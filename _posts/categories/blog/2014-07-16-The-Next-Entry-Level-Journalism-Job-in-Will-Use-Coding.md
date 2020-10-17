@@ -32,7 +32,7 @@ If you're reading this and aren't in the j-school community, here's a few things
 	<li>women in journalism</li>
 	<li>free aj staff</li>
 	<li>My interaction design class did some of my favorite online projects, ever.</li>
-	<li>See plenty more of our work curated on <a href="http://www.columbiajournalist.org/">The Columbia Journalist</a>.</li>
+	<li>See plenty more of our work curated on <a href="https://www.columbiajournalist.org/">The Columbia Journalist</a>.</li>
 </ul>
 
 It's that determination, damnit that you're going to get that one last piece for the story, whether it's a source, shot, code for your data project or something else. It's that dedication — not the new ventures like Vox or FiveThirtyEight — that gives me hope for the future of journalism.

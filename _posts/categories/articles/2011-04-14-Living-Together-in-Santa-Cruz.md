@@ -6,7 +6,7 @@ date:   2011-04-14 00:10:20
 categories: articles featured
 tags: CHP
 author: Michael Mott
-publication: <a href="http://www.cityonahillpress.com/2011/04/14/living-together-in-santa-cruz/">City on a Hill Press</a>
+publication: <a href="https://www.cityonahillpress.com/2011/04/14/living-together-in-santa-cruz/">City on a Hill Press</a>
 ---
 
 <hr width="90%" align="middle" />
